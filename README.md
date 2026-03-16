@@ -5,7 +5,7 @@
 
 ## Contact
 
-The MCKG was developed by [WESO research group](https://www.weso.es/).
+The BEKG was developed by [WESO research group](https://www.weso.es/).
 
 Responsible researchers:
 * **Enrique Rodriguez-Martin**, Universidad de Oviedo
