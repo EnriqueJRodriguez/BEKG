@@ -1,7 +1,7 @@
 
-[![Version Status](https://img.shields.io/badge/version-1.0.0-green.svg)]([https://github.com/EnriqueJRodriguez/BEKG])
+[![Version Status](https://img.shields.io/badge/version-1.0.0-green.svg)]([https://github.com/EnriqueJRodriguez/EFFKG])
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
-# BEKG
+# EFFKG
 
 ## Table of Contents
 - [Sources](#original-sources)
@@ -70,7 +70,7 @@ Users must comply with the respective license terms when reusing data or code.
 
 ## Contact
 
-The BEKG was developed by [WESO research group](https://www.weso.es/).
+The EFFKG was developed by [WESO research group](https://www.weso.es/).
 
 Responsible researchers:
 * **Enrique Rodriguez-Martin**, Universidad de Oviedo
