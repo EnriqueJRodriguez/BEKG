@@ -1,0 +1,61 @@
+Property Label EN;Datatype;Property Description;Property Description ES;Property Label ES
+CFR;string;;;
+GT Tonnage;quantity;Gross Tonagge;;Arqueo GT
+ID;string;Unique identifier;Identificador Ãºnico;ID
+IMO;string;International Maritime Organization Number;N�mero OMI;OMI
+IRCS;string;;;
+LBP;quantity;Length Between Perpendiculars;;Eslora entre perpendiculares
+LOA;quantity;Length Overall (m);Eslota total (m);Eslora total
+MMSI;string;Maritime Mobile Service Identity;Identidad del Servicio MÃ³vil MarÃ­timo;MMSI
+UVI;string;Unique Vessel Identifier;Identificador Ãnico del Buque;UVI
+Wikidata reference;external-id;;;Referencia wikidata
+abbreviation;string;;;abreviaciÃ³n
+administrated by;string;;;administrado por
+administration responsible of registration;string;;;administraciÃ³n responsable del registro
+auxiliar engine power;quantity;;;potencia motor auxiliar
+belongs to administrative unit;wikibase-item;;;pertenece a unidad administrativa
+category of;wikibase-item;Denotes categorization;Indica categorizaciÃ³n;categorÃ­a de
+code;string;;;cÃ³digo
+contains administrative unit;wikibase-item;;;contiene unidad administrativa
+coordinates;globe-coordinate;;;coordenadas
+country of registration;string;;;paÃ­s de registro
+date;time;;;fecha
+date of construction;time;;;fecha de construcciÃ³n
+date of destruction;time;;;fecha de destrucciÃ³n
+date of retirement;time;;;fecha de retiro
+defined by;string;;;definido por
+division of;wikibase-item;;;divisiÃ³n de
+end date;time;;;fecha de final
+entry into service date;time;;;fecha de entrada en servicio
+external marking;string;;;matricula
+flag;commonsMedia;;;bandera
+has delimitation;geoshape;;;tiene delimitaciÃ³n
+has demarcation;geoshape;;;tiene demarcaciÃ³n
+has divisions;wikibase-item;;;tiene divisiones
+has fishing gear category;wikibase-item;;;Tiene categorÃ­a de arte de pesca
+has parent category;wikibase-item;;;tiene categorÃ­a padre
+has ports;wikibase-item;;;tiene puertos
+has subareas;wikibase-item;;;tiene subzonas
+has vessel category;wikibase-item;;;tiene categorÃ­a de embarcaciÃ³n
+hull material;wikibase-item;;;material del casco
+image;url;;;imagen
+instance of;wikibase-item;;;instancia de
+main engine power;quantity;;;potencia del motor principal
+name;string;;;nombre
+number of vessels;quantity;;;nÃºmero de embarcaciones
+on board equipment;wikibase-item;;;equipamiento a bordo
+operates at;wikibase-item;vessel works at;embarcaciÃ³n opera en;opera en
+other tonnage;quantity;;;otro tonelaje
+plate name;string;;;nombre de matrÃ­cula
+registration number;string;;;registro
+registration on national registry;time;Registration on national registry (e.g. Registro General de la Flota Pesquera);Alta en registro nacional (p.e. Registro General de la Flota Pesquera);alta en registro nacional
+registration place;wikibase-item;;;lugar de registro
+safety tonnage GTs;quantity;;;tonelaje de seguridad GT
+segment;string;;;segmento
+since;time;;;desde
+source;url;;;fuente
+start date;time;;;fecha de inicio
+status on national registry;string;;;estado en registro nacional
+subarea of;wikibase-item;;;subarea de
+subclass of;wikibase-item;;;subclase de
+superseded by;wikibase-item;;;sustituido por

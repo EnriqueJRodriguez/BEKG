@@ -1,0 +1,72 @@
+label,code,abbreviation,has_parent_category
+Surrounding nets,01.0.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 01 [start: 2016-01-01T00:00:00Z],,
+Purse Seine,01.1.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 01.1 [start: 2016-01-01T00:00:00Z],PS,01; 01.0.0
+Surrounding nets without purse lines,01.2.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 01.2 [start: 2016-01-01T00:00:00Z],LA,01; 01.0.0
+Surrounding nets (NEI),01.9 [start: 2016-01-01T00:00:00Z],SUX,01; 01.0.0
+Seine nets,02.0.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 02 [start: 2016-01-01T00:00:00Z],,
+Beach seines,02.1.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 02.1 [start: 2016-01-01T00:00:00Z],SB,02; 02.0.0
+Boat seines,02.2.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 02.2 [start: 2016-01-01T00:00:00Z],SV,02; 02.0.0
+Seine nets (NEI),02.9.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 02.9 [start: 2016-01-01T00:00:00Z],SX,02; 02.0.0
+Trawls,03.0.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 03 [start: 2016-01-01T00:00:00Z],,
+Beam trawls,03.1.1 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 03.11 [start: 2016-01-01T00:00:00Z],TBB,03; 03.0.0
+Single boat bottom otter trawls,03.1.2 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 03.12 [start: 2016-01-01T00:00:00Z],OTB,03; 03.0.0
+Bottom pair trawls,03.1.3 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 03.15 [start: 2016-01-01T00:00:00Z],PTB,03; 03.0.0
+Bottom trawls (NEI),03.1.9 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 03.19 [start: 2016-01-01T00:00:00Z],TB,03; 03.0.0
+Multiple bottom otter trawls,03.14 [start: 2016-01-01T00:00:00Z],OTP,03; 03.0.0
+Single boat midwater otter trawls,03.2.1 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 03.21 [start: 2016-01-01T00:00:00Z],OTM,03; 03.0.0
+Midwater pair trawls,03.2.2 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 03.22 [start: 2016-01-01T00:00:00Z],PTM,03; 03.0.0
+Midwater trawls (NEI),03.2.9 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 03.29 [start: 2016-01-01T00:00:00Z],TM,03; 03.0.0
+Semipelagic trawls,03.3 [start: 2016-01-01T00:00:00Z],TSP,03; 03.0.0
+Twin bottom otter trawls,03.3.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 03.13 [start: 2016-01-01T00:00:00Z],OTT,03; 03.0.0
+Trawls (NEI),03.9.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 03.9 [start: 2016-01-01T00:00:00Z],TX,03; 03.0.0
+Dredges,04.0.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 04 [start: 2016-01-01T00:00:00Z],,
+Towed dredges,04.1.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 04.1 [start: 2016-01-01T00:00:00Z],DRB,04; 04.0.0
+Hand dredges,04.2.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 04.2 [start: 2016-01-01T00:00:00Z],DRH,04; 04.0.0
+Mechanized dredges,04.3 [start: 2016-01-01T00:00:00Z]; 11.2.0 [start: 2016-01-01T00:00:00Z]; 11.2.0 [start: 1980-01-01T00:00:00Z],DRM,04; 04.0.0
+Dredges (NEI),04.9 [start: 2016-01-01T00:00:00Z],DRX,04; 04.0.0
+Lift Nets,05.0.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 05 [start: 2016-01-01T00:00:00Z],,
+Portable lift nets,05.1.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 05.1 [start: 2016-01-01T00:00:00Z],LNP,05; 05.0.0
+Boat-operated lift nets,05.2.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 05.2 [start: 2016-01-01T00:00:00Z],LNB,05; 05.0.0
+Shore-operated stationary lift nets,05.3.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 05.3 [start: 2016-01-01T00:00:00Z],LNS,05; 05.0.0
+Lift nets (NEI),05.9.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 05.9 [start: 2016-01-01T00:00:00Z],LN,05; 05.0.0
+Falling Gear,06.0.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 06 [start: 2016-01-01T00:00:00Z],,
+Cast nets,06.1.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 06.1 [start: 2016-01-01T00:00:00Z],FCN,06; 06.0.0
+Cover pots/Lantern nets,06.2 [start: 2016-01-01T00:00:00Z],FCO,06; 06.0.0
+Falling gear (NEI),06.9.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 06.9 [start: 2016-01-01T00:00:00Z],FG,06; 06.0.0
+Gillnets and Entangling Nets,07.0.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 07 [start: 2016-01-01T00:00:00Z],,
+Set gillnets (anchored),07.1.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 07.1 [start: 2016-01-01T00:00:00Z],GNS,07; 07.0.0
+Drift gillnets,07.2.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 07.2 [start: 2016-01-01T00:00:00Z],GND,07; 07.0.0
+Encircling gillnets,07.3.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 07.3 [start: 2016-01-01T00:00:00Z],GNC,07; 07.0.0
+Fixed gillnets (on stakes),07.4.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 07.4 [start: 2016-01-01T00:00:00Z],GNF,07; 07.0.0
+Trammel nets,07.5.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 07.5 [start: 2016-01-01T00:00:00Z],GTR,07; 07.0.0
+Combined gillnets-trammel nets,07.6.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 07.6 [start: 2016-01-01T00:00:00Z],GTN,07; 07.0.0
+Gillnets and entangling nets (NEI),07.9.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 07.9 [start: 2016-01-01T00:00:00Z],GEN,07; 07.0.0
+Traps,08.0.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 08 [start: 2016-01-01T00:00:00Z],,
+Stationary uncovered pound nets,08.1.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 08.1 [start: 2016-01-01T00:00:00Z],FPN,08; 08.0.0
+Pots,08.2.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 08.2 [start: 2016-01-01T00:00:00Z],FPO,08; 08.0.0
+Fyke nets,08.3.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 08.3 [start: 2016-01-01T00:00:00Z],FYK,08; 08.0.0
+Stow nets,08.4.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 08.4 [start: 2016-01-01T00:00:00Z],FSN,08; 08.0.0
+"Barriers, fences, weirs, etc.",08.5.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 08.5 [start: 2016-01-01T00:00:00Z],FWR,08; 08.0.0
+Aerial traps,08.6.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 08.6 [start: 2016-01-01T00:00:00Z],FAR,08; 08.0.0
+Traps (NEI),08.9.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 08.9 [start: 2016-01-01T00:00:00Z],FIX,08; 08.0.0
+Hooks and Lines,09.0.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 09 [start: 2016-01-01T00:00:00Z],,
+Handlines and hand-operated pole-and-lines,09.1.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 09.1 [start: 2016-01-01T00:00:00Z],LHP,09; 09.0.0
+Mechanized lines and pole-and-lines,09.2.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 09.2 [start: 2016-01-01T00:00:00Z],LHM,09; 09.0.0
+Set longlines,09.3.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 09.31 [start: 2016-01-01T00:00:00Z],LLS,09; 09.0.0
+Vertical lines,09.4 [start: 2016-01-01T00:00:00Z],LVT,09; 09.0.0
+Drifting longlines,09.4.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 09.32 [start: 2016-01-01T00:00:00Z],LLD,09; 09.0.0
+Longlines (NEI),09.5.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 09.39 [start: 2016-01-01T00:00:00Z],LL,09; 09.0.0
+Trolling lines,09.6.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 09.5 [start: 2016-01-01T00:00:00Z],LTL,09; 09.0.0
+Hooks and lines (NEI),09.9.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 09.9 [start: 2016-01-01T00:00:00Z],LX,09; 09.0.0
+Miscellaneous Gear,10.0.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 10 [start: 2016-01-01T00:00:00Z],,
+Harpoons,10.1.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 10.1 [start: 2016-01-01T00:00:00Z],HAR,10; 10.0.0
+"Hand implements (Wrenching gear, Clamps, Tongs, Rakes, Spears)",10.2 [start: 2016-01-01T00:00:00Z],MHI,10; 10.0.0
+Electric fishing,10.4 [start: 2016-01-01T00:00:00Z],MEL,10; 10.0.0
+Pushnets,10.5 [start: 2016-01-01T00:00:00Z],MPN,10; 10.0.0
+Scoopnets,10.6 [start: 2016-01-01T00:00:00Z],MSP,10; 10.0.0
+Drive-in nets,10.7 [start: 2016-01-01T00:00:00Z],MDR,10; 10.0.0
+Diving,10.8 [start: 2016-01-01T00:00:00Z],MDV,10; 10.0.0
+Pumps,11.0.1 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 10.3 [start: 2016-01-01T00:00:00Z],MPM,10; 10.0.0
+Gear NEI,20.0.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 10.9 [start: 2016-01-01T00:00:00Z],MIS,10; 10.0.0
+Gear Not Known,99.0.0 [start: 1980-01-01T00:00:00Z] [end: 2016-01-01T00:00:00Z]; 99 [start: 2016-01-01T00:00:00Z],,
+Gear not known,99.9 [start: 2016-01-01T00:00:00Z],NK,99; 99.0.0

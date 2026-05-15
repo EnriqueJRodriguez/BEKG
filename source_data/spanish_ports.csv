@@ -1,0 +1,287 @@
+Label_en;Label_es;P2:string;P29:string;P76:string;P39:wikibase-item;P50:wikibase-item;P48:globe-coordinate
+Port of Tarifa;Puerto de Tarifa;Tarifa;ESTRF;Administración General del Estado;Q70;Q187;36.009368,-5.604034,0.000001
+Port of Algeciras;Puerto de Algeciras;Algeciras;ESALG;Administración General del Estado;Q70;Q188;36.132349,-5.436094,0.000001
+Port of La Linea de la Concepción;Puerto de La Linea de la Concepción;La Linea de la Concepción;;;Q70;Q188;36.158917,-5.359301,0.000001
+Port of La Atunara;Puerto de La Atunara;La Atunara;;Comunidad Autónoma;Q70;Q188;36.180808,-5.334223,0.000001
+Port of Torrevieja;Puerto de Torrevieja;Torrevieja;ESTOR;Comunidad Autónoma;Q70;Q189;37.970740,-0.686970,0.000001
+Port of Guardamar del Segura;Puerto de Gardamar del Segura;Guardamar del Segura;;;Q70;Q189;38.109290,-0.645015,0.000001
+Port of Santa Pola;Puerto de Santa Pola;Santa Pola;ESSPO;Comunidad Autónoma;Q70;Q190;38.196972,-0.561452,0.000001
+Port of Alicante;Puerto de Alicante;Alicante;ESALC;Administración General del Estado;Q70;Q191;38.329485,-0.491189,0.000001
+Port of Isla de Tabarca;Puerto de Isla de Tabarca;Isla de Tabarca;ESTAB;Comunidad Autónoma;Q70;Q191;38.166860,-0.478506,0.000001
+Port of Villajoyosa;Puerto de Villajoyosa;Villajoyosa;ESVIL;Comunidad Autónoma;Q70;Q192;38.506843,-0.219837,0.000001
+Port of Campello;Puerto de Campello;Campello,,El Campello;ESCAM;Comunidad Autónoma;Q70;Q192;38.430528,-0.385522,0.000001
+Port of Calpe;Puerto de Calpe;Calpe;ESCAL;Comunidad Autónoma;Q70;Q192;38.637932,0.069755,0.000001
+Port of Benidorm;Puerto de Benidorm;Benidorm;ESBEM;Comunidad Autónoma;Q70;Q192;38.534136,-0.133680,0.000001
+Port of Altea;Puerto de Altea;Altea;ESALT;Comunidad Autónoma;Q70;Q193;38.588148,-0.054355,0.000001
+Port of Denia;Puerto de Denia;Denia;ESDNA;Comunidad Autónoma;Q70;Q194;38.842661,0.00000115707,0.000001
+Port of Moraira;Puerto de Moraira;Moraira;ESMOR;Comunidad Autónoma;Q70;Q194;38.686029,0.137104,0.000001
+Port of Javea;Puerto de Javea;Javea,,Jávea;ESJAV;Comunidad Autónoma;Q70;Q194;38.797026,0.186018,0.000001
+Port of Adra;Puerto de Adra;Adra;ESADR;;Q70;Q195;36.745583,-3.020300,0.000001
+Port of Almería;Puerto de Almería;Almería;ESLEI;Administración General del Estado;Q70;Q196;36.834755,-2.481466,0.000001
+Port of Roquetas De Mar;Puerto de Roquetas De Mar;Roquetas De Mar;;;Q70;Q196;36.755043,-2.605899,0.000001
+Port of Carboneras;Puerto de Carboneras;Carboneras;;;Q70;Q197;36.990636,-1.897374,0.000001
+Port of Garrucha;Puerto de La Garrucha;Garrucha;ESGAR;;Q70;Q198;37.183265,-1.8117254,0.000001
+Port of Avilés;Puerto de Avilés;Aviles,,Avilés;ESAVS;Administración General del Estado;Q70;Q199;43.570472,-5.921849,0.000001
+Port of San Esteban de Pravia;Puerto de San Esteban de Pravia;San Esteban de Pravia;ESSEO;;Q70;Q200;43.550340,-6.085262,0.000001
+Port of San Juan de la Arena;Puerto de San Juan de la Arena;San Juan de la Arena;;;Q70;Q200;43.556463,-6.076936,0.000001
+Port of Cudillero;Puerto de Cudillero;Cudillero;ESCLO;;Q70;Q200;43.567664,-6.150905,0.000001
+Port of Oviñana;Puerto de Oviñana;Oviñana;;;Q70;Q200;43.584521,-6.224005,0.000001
+Port of Luarca;Puerto de Luarca;Luarca;ESLUA;;Q70;Q201;43.546137,-6.532737,0.000001
+Port of Viavelez;Puerto de Viavelez;Viavelez;;;Q70;Q201;43.563835,-6.839166,0.000001
+Port of Tapia de Casariego;Puerto de Tapia de Casariego;Tapia de Casariego;ESTCG;;Q70;Q201;43.572279,-6.945576,0.000001
+Port of Puerto de Vega;Puerto de Puerto de Vega;Puerto de Vega;;;Q70;Q201;43.565352,-6.645832,0.000001
+Port of Ortiguera;Puerto de Ortiguera;Ortiguera;ESOGU;Comunidad Autónoma;Q70;Q201;43.560611,-6.741219,0.000001
+Port of Figueras;Puerto de Figueras;Figueras;ESFGU;;Q70;Q201;43.537254,-7.023968,0.000001
+Port of Villanueva y Geltrú;Puerto de Villanueva y Geltrú;Villanueva y la Geltrú,,Vilanova y la Geltrú;;;Q70;Q202;41.211069,1.732815,0.000001
+Port of Sitges;Puerto de Sitges;Sitges;ESSIT;;Q70;Q202;41.234144,1.825151,0.000001
+Port of Barcelona;Puerto de Barcelona;Barcelona;ESBCN;Administración General del Estado;Q70;Q203;41.373844,2.184105,0.000001
+Port of El Masnou;Puerto del Masnou;El Masnou;ESMSN;Comunidad Autónoma;Q70;Q203;41.476019,2.314173,0.000001
+Port of Castelldefels;Puerto de Castelldefels;Castelldefels;;;Q70;Q203;41.259104,1.927165,0.000001
+Puerto de Calella de la Costa;Puerto de Calella de la Costa;Calella,,Calella de la Costa;;;Q70;Q203;41.612911,2.667081,0.000001
+Port of Badalona;Puerto de Badalona;Badalona;ESBAD;;Q70;Q203;41.433339,2.241665,0.000001
+Port of Arenys de Mar;Puerto de Arenys de Mar;Arenys de Mar;;;Q70;Q204;41.577157,2.560184,0.000001
+Port of San Pol de Mar;Puerto de San Pol de Mar;San Pol de Mar;;;Q70;Q204;41.600530,2.624933,0.000001
+Port of Montgat;Puerto de Montgat;Montgat;;;Q70;Q204;41.466138,2.282609,0.000001
+Port of Pineda;Puerto de Pineda;Pineda,,Pineda de Mar;;;Q70;Q204;41.623655,2.700618,0.000001
+Port of Mataró;Puerto de Mataró;Mataró,,Mataro;ESMTO;Comunidad Autónoma;Q70;Q204;41.529708,2.446001,0.000001
+Port of Lequeitio;Puerto de Lequeito;Lequeito;ESLEK;Autoridad Portuaria;Q70;Q205;43.365200,-2.501288,0.000001
+Port of Elanchove;Puerto de Elanchove;Elanchove;ESEEM;Autoridad Portuaria;Q70;Q205;43.403681,-2.637600,0.000001
+Port of Bermeo;Puerto de Bermeo;Bermeo;ESBRM;Autoridad Portuaria;Q70;Q206;43.419742,-2.716807,0.000001
+Port of Mundaca;Puerto de Mundaca;Mundaca;ESMKA;Autoridad Portuaria;Q70;Q206;43.408469,-2.697705,0.000001
+Port of Bilbao;Puerto de Bilbao;Bilbao;ESBIO;Administración General del Estado;Q70;Q207;43.330121,-3.030032,0.000001
+Port of Santurce;Puerto de Santurce;Santurce;;;Q70;Q207;43.330351,-3.030417,0.000001
+Port of Plencia;Puerto de Plencia;Plencia;;Autoridad Portuaria;Q70;Q207;43.407787,-2.946647,0.000001
+Port of Ciervana;Puerto de Ciervana;Ciervana,,Zierbena;;;Q70;Q207;43.353730,-3.079272,0.000001
+Port of Arminza;Puerto de Arminza;Arminza,,Armintza;ESARW;Autoridad Portuaria;Q70;Q207;43.432793,-2.8999095,0.000001
+Port of Ondárroa;Puerto de Ondárroa;Ondárroa;ESOND;Autoridad Portuaria;Q70;Q208;43.325230,-2.421274,0.000001
+Port of El Puerto de Santa María;Puerto de Santa María;Puerto Santa María;;Comunidad Autónoma;Q70;Q209;36.590889,-6.227585,0.000001
+Port of Chipiona;Puerto de Chipiona;Chipiona;ESCHP;Comunidad Autónoma;Q70;Q209;36.746117,-6.430557,0.000001
+Port of Cádiz;Puerto de Cádiz;Cádiz,,Cadiz;ESCAD;Comunidad Autónoma;Q70;Q210;36.531542,-6.284302,0.000001
+Port of Sanlucar De Barrameda;Puerto de Sanlucar De Barrameda;Sanlucar De Barrameda,,Sanlúcar De Barrameda;;;Q70;Q264;36.790345,-6.353188,0.000001
+Port of San Fernando;Puerto de San Fernando;San Fernando;;;Q70;Q210;36.485886,-6.198461,0.000001
+Port of Rota;Puerto de Rota;Rota;;;Q70;Q210;36.615883,-6.355881,0.000001
+Port of Puerto Real;Puerto de Puerto Real;Puerto Real;;;Q70;Q210;36.524835,-6.191532,0.000001
+Port of Puerto de Santa Maria;Puerto de Puerto de Santa Maria;Puerto de Santa Maria;;;Q70;Q210;36.580367,-6.250375,0.000001
+Port of Barbate;Puerto de Barbate;Barbate;;;Q70;Q211;36.185695,-5.927214,0.000001
+Port of Conil;Puerto de Conil;Conil, Conil de la Frontera;;;Q70;Q211;36.294671,-6.137259,0.000001
+Port of Águilas;Puerto de Águilas;Águilas;ESAGU;;Q70;Q212;37.403187,-1.576922,0.000001
+Port of Mazarrón;Pueto de Mazarrón;Mazarrón,,Mazarron;ESMZO;;Q70;Q213;37.562445,-1.256645,0.000001
+Port of Cartagena;Puerto de Cartagena;Cartagena;ESCAR;Administración General del Estado;Q70;Q214;37.597303,-0.975028,0.000001
+Port of San Pedro del Pinatar;Puerto de San Pedro del Pinatar;San Pedro del Pinatar;ESPPI;;Q70;Q215;37.820311,-0.754714,0.000001
+Port of Burriana;Puerto de Burriana;Burriana;ESBRX;Comunidad Autónoma;Q70;Q216;39.862482,-0.069244,0.000001
+Port of Castellón de la Plana;Puerto de Castellón;Castellón,,Castellon de la Plana (El Grao);ESCAS;Administración General del Estado;Q70;Q217;39.969572,0.014402,0.000001
+Port of Vinaroz;Puerto de Vinaroz;Vinaroz,,Vinaròs;ESVZR;Comunidad Autónoma;Q70;Q218;40.465487,0.474575,0.000001
+Port of Peñíscola;Puerto de Peñíscola;Peñíscola,,Peñiscola;;;Q70;Q218;40.356557,0.404921,0.000001
+Port of Benicarlo;Puerto de Benicarlo;Benicarlo,,Benicarló;ESBEC;Comunidad Autónoma;Q70;Q218;40.414845,0.435114,0.000001
+Port of Ceuta;Puerto de Ceuta;Ceuta;ESCEU;Administración General del Estado;Q70;Q219;35.897701,-5.319304,0.000001
+Port of Sada;Puerto de Sada;Sada,,Sada-Fontán;ESSAD;Comunidad Autónoma;Q70;Q220;43.3616666,-8.246592,0.000001
+Port of Redes;Puerto de Redes;Redes;;Comunidad Autónoma;Q70;Q220;43.423942,-8.203225,0.000001
+Port of Miño;Puerto de Miño;Miño;;Comunidad Autónoma;Q70;Q220;43.351010,-8.216687,0.000001
+Port of Mera-Oleiros;Puerto de Mera-Oleiros;Mera-Oleiros,,Mera;;Comunidad Autónoma;Q70;Q220;43.377937,-8.339051,0.000001
+Port of Lorbe;Puerto de Lorbe;Lorbe,,Lorbé;;Comunidad Autónoma;Q70;Q220;43.390195,-8.297633,0.000001
+Port of La Coruña;Puerto de La Coruña;La Coruña;ESLCG;Administración General del Estado;Q70;Q221;43.361959,-8.401746,0.000001
+Port of Ares;Puerto de Ares;Ares;;Comunidad Autónoma;Q70;Q221;43.421989,-8.239047,0.000001
+Port of Corme;Puerto de Corme;Corme;ESCRE;Comunidad Autónoma;Q70;Q222;43.262758,-8.963946,0.000001
+Port of Camariñas;Puerto de Camariñas;Camariñas;ESCMI;Comunidad Autónoma;Q70;Q223;43.262758,-8.963946,0.000001
+Port of Malpica de Bergantiños;Puerto de Malpica de Bergantiños;Malpica de Bergantiños,,Malpica;ESMJP;Comunidad Autónoma;Q70;Q223;43.323128,-8.807221,0.000001
+Port of Laje;Puerto de Laje;Laje,,Laxe;;Comunidad Autónoma;Q70;Q223;43.223206,-9.002731,0.000001
+Port of Camelle;Puerto de Camelle;Camelle;;Comunidad Autónoma;Q70;Q223;43,185186,-9.089765,0.000001
+Port of Corcubión;Puerto de Corcubión;Corcubión;ESCCN;Comunidad Autónoma;Q70;Q224;42.944578,-9.189465,0.000001
+Port of Muros;Puerto de Muros;Muros;ESMRS;Comunidad Autónoma;Q70;Q225;42.776525,-9.053630,0.000001
+Port of Palmeira;Puerto de Palmeira;Palmeira;;Comunidad Autónoma;Q70;Q225;42.579949,-8.957257,0.000001
+Port of O Freixo;Puerto de O Freixo;O Freixio,,Parrado;;Comunidad Autónoma;Q70;Q255;42.794630,-8.944739,0.00001
+Port of Lira-Carnota;Puerto de Lira-Carnota;Lira-Carnota;;;Q70;Q255;42.804615,-9.136983,0.000001
+Port of Finisterre;Puerto de Finisterre;Finisterre;ESCFI;Comunidad Autónoma;Q70;Q255;42.907156,-9.261919,0.000001
+Port of El Pindo;Puerto del Pindo;El Pindo,,O Pindo;;Comunidad Autónoma;Q70;Q255;42.898353,-9.134221,0.000001
+Port of Noia;Puerto de Noia;Noya,,Noia;ESNOA;Comunidad Autónoma;Q70;Q226;42.761960,-8.948072,0.000001
+Port of Portosín;Puerto de Portosín;Portosín,,Portosin;;Comunidad Autónoma;Q70;Q266;42.759809,-8.948539,0.000001
+Port of Puerto del Son;Puerto del Puerto del Son;Puerto del Son,,Porto do Son;;Comunidad Autónoma;Q70;Q266;42.728144,-9.001742,0.000001
+Port of Cariño;Puerto de Cariño;Cariño;ESCNO;Comunidad Autónoma;Q70;Q227;43.737338,-7.865989,0.000001
+Port of Santa Marta de Ortigueira;Puerto de Santa Marta de Ortigueira;Santa Marta de Ortigueira;;Comunidad Autónoma;Q70;Q227;43.681847,-7.854989,0.000001
+Port of Cedeira;Puerto de Cedeira;Cedeira;ESCED;Comunidad Autónoma;Q70;Q228;43.657447,-8.069669,0.000001
+Port of Mugia;Puerto de Mugia;Mugia;;Comunidad Autónoma;Q70;Q228;43.106309,-9.213671,0.000001
+Port of Espasante;Pueto de Espasante;Espasante;;Comunidad Autónoma;Q70;Q288;43.721544,-7.812975,0.000001
+Port of Cayon;Puerto de Cayon;Cayon,,Cayón;;;Q70;Q228;43.670902,-7.902280,0.000001
+Port of Ferrol;Puerto de Ferrol;Ferrol;ESFRO;Administración General del Estado;Q70;Q229;43.476325,-8.245912,0.000001
+Port of Puentedeume;Puerto de Puentedeume;Puentedeume;;Comunidad Autónoma;Q70;Q229;43.410196,-8.173633,0.000001
+Port of Mugardos;Puerto de Mugardos;Mugardos,,San Telmo de Mugardos;;Comunidad Autónoma;Q70;Q229;43.462219,-8.259258,0.000001
+Port of Barallobre;Puerto de Barallobre;Barallobre,,Maniños;;;Q70;Q229;43.464099,-8.195707,0.000001
+Port of Llanes;Puerto de Llanes;Llanes;;;Q70;Q230;43.421022,-4.749488,0.000001
+Port of Niembro;Puerto de Niembro;Niembro;;;Q70;Q230;43.434842,-4.835970,0.000001
+Port of Bustio;Puerto de Bustio;Bustio;;;Q70;Q230;43.383468,-4.515102,0.000001
+Port of Ribadesella;Puerto de Ribadesella;Ribadesella;ESRBS;;Q70;Q231;43.464025,-5.059060,0.000001
+Port of Lastres;Puerto de Lastres;Lastres;;;Q70;Q232;43.464025,-5.059060,0.000001
+Port of Tazones;Puerto de Tazones;Tazones;;;Q70;Q232;43.545562,-5.398063,0.000001
+Port of El Puntal;Puerto del Puntal;El Puntal;;;Q70;Q232;43.525555,-5.389561,0.000001
+Port of Gijón;Puerto de Gijón;Gijón,,Gijon,,Xixón;ESGIJ;Administración General del Estado;Q70;Q233;43.556653,-5.696565,0.000001
+Port of Candás;Puerto de Candás;Candás,,Candas;ESADS;;Q70;Q233;43.589838,-5.760971,0.000001
+Port of Luanco;Puerto de Luanco;Luanco;;;Q70;Q234;43.621928,-5.783419,0.000001
+Port of Bañugues;Puerto de Bañugues;Bañugues;;;Q70;Q234;43.633282,-5.811731,0.000001
+Port of Motril;Puerto de Motril;Motril;ESMOT;Administración General del Estado;Q70;Q235;36.721047,-3.521795,0.000001
+Port of Almuñecar;Puerto de Almuñecar;Almuñecar;;;Q70;Q235;36.721047,-3.521795,0.000001
+Port of Ayamonte;Puerto de Ayamonte;Ayamonte;ESAYA;Comunidad Autónoma;Q70;Q236;37.214764,-7.410339,0.000001
+Port of Lepe;Puerto de Lepe;Lepe,,El Terrón;;Comunidad Autónoma;Q70;Q236;27.224018,-7.173480,0.000001
+Port of Isla Cristina;Puerto de Isla Cristina;Isla Cristina;ESICR;Comunidad Autónoma;Q70;Q237;37.197770,-7.328395,0.000001
+Port of Huelva;Puerto de Huelva;Huelva;ESHUV;Comunidad Autónoma;Q70;Q238;37.259069,-6.962165,0.000001
+Port of Punta Umbría;Puerto de Punta Umbria;Punta Umbria;;Comunidad Autónoma;Q70;Q238;37.183325,-6.960498,0.000001
+Port of Palos De La Frontera;Puerto de Palos De La Frontera;Palos De La Frontera;;;Q70;Q238;37.231693,-6.909139,0.000001
+Port of Ibiza;Puerto de Ibiza;Ibiza;ESIBZ;Administración General del Estado;Q70;Q239;38.915179,1.437639,0.000001
+Port of San Antonio Abad;Puerto de San Antonio Abad;San Antonio Abad;;;Q70;Q240;38.978252,1.302918,0.000001
+Port of Formentera;Puerto de Formentera;Formentera,,Formentera (Cala Savina);;;Q70;Q241;38.734161,1.416832,0.000001
+Port of Ribadeo;Puerto de Ribadeo;Ribadeo;ESRIB;Comunidad Autónoma;Q70;Q242;43.535686,-7.036000,0.000001
+Port of San Ciprán;Puerto de San Ciprán;San Ciprán,,San Cibrao;ESSCI;Administración General del Estado;Q70;Q242;43.698746,-7.439807,0.000001
+Port of Foz;Puerto de Foz;Foz;;Comunidad Autónoma;Q70;Q242;43.565879,-7.256003,0.000001
+Port of Burela;Puerto de Burela;Burela;ESBRL;Comunidad Autónoma;Q70;Q243;43.656565,-7.351034,0.000001
+Port of Vivero;Puerto de Vivero;Vivero,,Viveiro;ESVIV;Comunidad Autónoma;Q70;Q244;43.669522,-7.594536,0.000001
+Port of Celeiro;Puerto de Celeiro;Celeiro,,Cillero;;;Q70;Q244;43.678917,-7.597197,0.000001
+Port of Barquero-Bares;Puerto de Barquero-Bares;Barquero-Bares,,Bares,,Barqueiro;;Comunidad Autónoma;Q70;Q244;43.737261,-7.700819,0.000001
+Port of Vicedo;Puerto de Vicedo;Vicedo;;Comunidad Autónoma;Q70;Q244;43.738027,-7.676294,0.00001
+Port of Estepona;Puerto de Estepona;Estepona;ESEPN;Comunidad Autónoma;Q70;Q245;36.415928,-5.155282,0.000001
+Port of Marbella;Puerto de Marbella;Marbella;;Comunidad Autónoma;Q70;Q246;36.506163,-4.873797,0.000001
+Port of Fuengirola;Puerto de Fuengirola;Fuengirola;ESFGL;Comunidad Autónoma;Q70;Q247;36.539363,-4.617564,0.000001
+Port of Málaga;Puerto de Málaga;Málaga;ESAGP;Administración General del Estado;Q70;Q248;36.708865,-4.420987,0.000001
+Port of La Carihuela;Puerto de La Carihuela;La Carihuela;;;Q70;Q248;36.596552,-4.509475,0.000001
+Port of Vélez-Málaga;Puerto de Vélez-Málaga;Vélez-Málaga,,Velez-Malaga;;Comunidad Autónoma;Q70;Q249;36.748360,-4.068612,0.000001
+Port of Torre Del Mar;Puerto de Torre Del Mar;Torre Del Mar;;;Q70;Q249;36.747958,-4.068532,0.000001
+Port of Palma de Mallorca;Puerto de Palma;Palma de Mallorca;ESPMI;Administración General del Estado;Q70;Q250;39.563581,2.635002,0.000001
+Port of Santañí;Puerto de Santañí;Santañí,,Cala Figuera;;;Q70;Q250;39.331900,3.167990,0.000001
+Port of Puerto de Sóller;Puerto de Puerto de Sóller;Puerto de Sóller;ESSOL;;Q70;Q250;39.795972,2.692122,0.000001
+Port of Porto Colom;Puerto de Porto Colom;Porto Colom;;;Q70;Q250;39.422472,3.263756,0.000001
+Port of Porto Cristo;Puerto de Porto Cristo;Porto Cristo;;;Q70;Q250;39.538269,3.332508,0.000001
+Port of Colonia de San Jorge;Puerto de Colonia de San Jorge;Colonia de San Jorge,,Campos;;;Q70;Q250;39.315703,2.998871,0.000001
+Port of Cala Rajada;Puerto de Cala Rajada;Cala Rajada,, Cala Ratjada;;;Q70;Q250;39.710504,3.464146,0.000001
+Port of Andraitx;Puerto de Andraitx;Andraitx,,Andratx;;;Q70;Q250;39.545778,2.386550,0.000001
+Port of Alcudia;Puerto de Alcudia;Alcudia;;;Q70;Q251;39.838328,3.135317,0.000001
+Port of Pollensa;Puerto de Pollensa;Pollensa;;;Q70;Q251;39.904495,3.085422,0.000001
+Port of Mahón;Puerto de Mahón;Mahón,,Mahon;ESMAH;Administración General del Estado;Q70;Q252;39.891959,4.262007,0.000001
+Port of Fornells;Puerto de Fornells;Fornells;;;Q70;Q252;40.054869,4.130916,0.000001
+Port of Ciudadela;Puerto de Ciudadela;Ciudadela;;;Q70;Q253;40.000076,3.831783,0.000001
+Port of Melilla;Puerto de Melilla;Melilla;;;Q70;Q254;35.269821,-2.922436,0.000001
+Port of Las Palmas de Gran Canaria;Puerto de Las Palmas;Las Palmas;ESLPA;Administración General del Estado;Q70;Q255;28.145148,-15.427544,0.000001
+Port of Taliarte - Melenara;Puerto de Taliarte - Melenara;Taliarte - Melenara;;;Q70;Q255;27.989488,-15.368725,0.000001
+Port of San Cristóbal;Puerto de San Cristóbal;San Cristóbal;;;Q70;Q255;28.075789,-15.413972,0.000001
+Port of Mogán;Puerto de Mogán;Mogán,,Mogan;;;Q70;Q255;27.816216,-15.764522,0.000001
+Port of La Aldea;Puerto de La Aldea;La Aldea,,La Aldea de San Nicolás;ESADA;;Q70;Q255;28.006120,-15.818135,0.000001
+Port of Castillo del Romeral;Puerto de Castillo del Romeral;Castillo del Romeral;;;Q70;Q255;27.795359,-15.463426,0.000001
+Port of Arguineguín;Puerto de Arguineguín;Arguineguín;ESARI;;Q70;Q255;27.757093,-15.684431,0.000001
+Port of Agaete;Puerto de Agaete;Agaete;;;Q70;Q255;28,100726,-15.711800,0.000001
+Port of Puerto del Rosario;Puerto de Puerto del Rosario;Puerto del Rosario;ESPRO;Administración General del Estado;Q70;Q256;28.498407,-13.856657,0.000001
+Port of Morro Jable;Pouerto de Morro Jable;Morro Jable;ESCUT;;Q70;Q256;28.048938,-14.360171,0.000001
+Port of Gran Tarajal;Puerto de Gran Tarajal;Gran Tarajal;ESGTL;;Q70;Q256;28.208118,-14.025275,0.000001
+Port of El Cotillo;Puerto del Cotillo;El Cotillo;;;Q70;Q256;28.681282,-14.012339,0.000001
+Port of Corralejo;Puerto de Corralejo;Corralejo;ESQFU;;Q70;Q256;28.739960,-13.862848,0.000001
+Port of Arrecife;Puerto de Arrecife,,Naos;Arrecife,,Naos,, Arrecife de Lanzarote;ESACE;Administración General del Estado;Q70;Q257;28.962705,-13.541909,0.000001
+Port of Puerto del Carmen;Puerto de Puerto del Carmen;Puerto del Carmen;ESPUC;;Q70;Q257;28.921178,-13.674411,0.000001
+Port of Playa Blanca;Puerto de Playa Blanca;Playa Blanca;ESQLY;;Q70;Q257;28.859915,-13.833298,0.000001
+Port of Orzola;Puerto de Orzola;Orzola,,Órzola;ESOZL;Cabildo o Consell Insular;Q70;Q257;29.223231,-13.451195,0.000001
+Port of Caleta del Sebo, La Graciosa;Puerto de Caleta del Sebo, La Graciosa;Caleta del Sebo,,La Graciosa,, Caleta del Sebo, La Graciosa;ESCHR;;Q70;Q257;29.228769,-13.502054,0.000001
+Port of Blanes;Puerto de Blanes;Blanes;ESBLA;Comunidad Autónoma;Q70;Q258;41.674157,2.800497,0.000001
+Port of Malgrat;Puerto de Malgrat;Malgrat,,Malgrat de Mar;;;Q70;Q258;41.674157,2.800497,0.000001
+Port of Lloret de Mar;Puerto de Lloret de Mar;Lloret de Mar;;;Q70;Q258;41.703442,2.880698,0.000001
+Port of Palamós;Puerto de Palamós;Palamós,,Palamos;ESPAL;Comunidad Autónoma;Q70;Q259;41.844535,3.126005,0.000001
+Port of Tossa de Mar;Puerto de Tossa de Mar;Tossa de Mar;;;Q70;Q259;41.721467,2.937816,0.000001
+Port of San Feliu De Guixols;Puerto de San Feliu De Guixols;San Feliu De Guixols;ESSFU;Comunidad Autónoma;Q70;Q259;41.779595,3.036938,0.000001
+Port of La Escala;Puerto de La Escala;La Escala;;;Q70;Q259;42.117508,3.147865,0.000001
+Port of Estartit;Puerto de Estartit;Estartit;;;Q70;Q259;42.052796,3.203944,0.000001
+Port of Cadaques;Puerto de Cadaques;Cadaques,,Cadaqués;;;Q70;Q260;42.287958,3.278523,0.000001
+Port of Rosas;Puerto de Rosas;Rosas;ESROS;Comunidad Autónoma;Q70;Q260;42.255314,3.179258,0.000001
+Port of Llansa;Puerto de Llansa;Llansa;ESLLC;Comunidad Autónoma;Q70;Q260;42.372465,3.162578,0.000001
+Port of Puerto de la Selva;Puerto de Puerto de la Selva;Puerto de la Selva,,Port de la Selva;ESPSA;Comunidad Autónoma;Q70;Q260;42.338939,3.202319,0.000001
+Port of Fuenterrabía;Puerto de Fuenterrabía,Hondarribia;Fuenterrabia,,Fuenterrabía,,Hondarribia;ESHON;Autoridad Portuaria;Q70;Q261;43.386504,-1.79049,0.000001
+Port of Ondarroa;Puerto de Ondarroa;Ondarroa;ESOND;Autoridad Portuaria;Q70;Q208;43.324431,-2.421040,0.000001
+Port of Motrico;Puerto de Motrico;Motrico;ESMTU;Autoridad Portuaria;Q70;Q261;43.308098,-2.382005,0.000001
+Port of Pasajes;Puerto de Pasajes;Pasajes;ESPAS;Administración General del Estado;Q70;Q262;43.322191,-1.915266,0.000001
+Port of San Sebastián;Puerto de San Sebastián;San Sebastián;ESEAS;Comunidad Autónoma;Q70;Q262;43.322718,-1.990180,0.000001
+Port of Orio;Puerto de Orio;Orio;ESORI;Autoridad Portuaria;Q70;Q262;43.288554,-2.130526,0.000001
+Port of Deba;Puerto de Deba;Deba;;;Q70;Q262;43.293904,-2.356259,0.000001
+Port of Guetaria;Puerto de Guetaria;Guetaria;ESGET;Autoridad Portuaria;Q70;Q263;43.305900,-2.198898,0.000001
+Port of Zarauz;Puerto de Zarauz;Zarauz;;;Q70;Q263;43.290097,-2.178817,0.000001
+Port of Zumaya;Puerto de Zumaya;Zumaya;ESZMY;Autoridad Portuaria;Q70;Q262;43.297601,-2.253249,0.000001
+Port of Sanlúcar de Barrameda;Puerto de Sanlúcar,,Bonanza;Sanlúcar,,Bonanza;;;Q70;Q264;36.803303,-6.337557,0.000001
+Port of Sevilla;Puerto de Sevilla;Sevilla;;;Q70;Q265;37.360615,-5.993027,0.000001
+Port of San Carlos de la Rápita;Puerto de San Carlos de la Rápita;San Carlos de la Rápita,,Rápita,,Rapita;;;Q70;Q266;40.616397,0.601156,0.000001
+Port of Casas de Alcanar;Puerto de Casas de Alcanar;Casas de Alcanar,,Las Casas de Alcanar;;Comunidad Autónoma;Q70;Q266;40.551709,0.531709,0.000001
+Port of Tarragona;Puerto de Tarragona;Tarragona;ESTAR;Administración General del Estado;Q70;Q267;41.107343,1.240603,0.000001
+Port of Torredembarra;Puerto de Torredembarra;Torredembarra;ESTRR;Comunidad Autónoma;Q70;Q267;41.135170,1.403090,0.000001
+Port of La Ametlla De Mar;Puerto de La Ametlla De Mar;La Ametlla De Mar;;Comunidad Autónoma;Q70;Q267;40.881918,0.802494,0.000001
+Port of Tortosa;Puerto de Tortosa;Tortosa;;;Q70;Q267;40.807885,0.517151,0.000001
+Port of Deltebre;Puerto de Deltebre;Deltebre;;;Q70;Q267;40.711321,0.735779,0.000001
+Port of Cambrils;Puerto de Cambrils;Cambrils;ESCBL;Comunidad Autónoma;Q70;Q267;41.063748,1.061859,0.000001
+Puerto de Calafell;Puerto de Calafell;Calafell;;;Q70;Q267;41.188834,1.607234,0.000001
+Port of Ampolla;Puerto de Ampolla;Ampolla,,La Ampolla;;Comunidad Autónoma;Q70;Q267;40.810559,0,710923,0.000001
+Port of Santa Cruz de Tenerife;Puerto de Santa Cruz de Tenerife;Santa Cruz de Tenerife;;Comunidad Autónoma;Q70;Q268;28.496982,-16.206268,0.000001
+Port of Valle Guerra;Puerto de Valle Guerra;Valle Guerra;;;Q70;Q268;28.537750,-16.397705,0.000001
+Port of San Miguel de Tajao;Puerto de San Miguel de Tajao;San Miguel de Tajao,,Tajao;;;Q70;Q268;28.108888,-16.469593,0.000001
+Port of San Andrés;Puerto de San Andrés;San Andrés;;;Q70;Q268;28.498058,-16.203141,0.000001
+Port of Punta Hidalgo;Puerto de Punta Hidalgo;Punta Hidalgo;;;Q70;Q268;28.564509,-16.332409,0.000001
+Port of Puerto Santiago;Puerto de Puerto Santiago;Puerto Santiago,,Puerto de los Gigantes;;;Q70;Q268;28.247757,-16.842712,0.000001
+Port of Puerto de la Cruz;Puerto de Puerto de la Cruz;Puerto de la Cruz,,El Penitente;;;Q70;Q268;28.418782,-16.550367,0.000001
+Port of Playa San Marcos;Puerto de Playa San Marcos;Playa San Marcos,,San Marcos;;;Q70;Q268;28.378895,-16.724877,0.000001
+Port of Playa San Juan;Puerto de Playa San Juan;Playa San Juan - Guia Isora,,Playa San Juan;ESPSJ;;Q70;Q268;28.179595,-16.814704,0.000001
+Port of Los Silos;Puerto de Los Silos;Los Silos;;;Q70;Q268;28.378623,-16.812839,0.000001
+Port of Los Abrigos;Puerto de Los Abrigos;Los Abrigos;;;Q70;Q268;28.027940,-16.592761,0.000001
+Port of Las Galletas;Puerto de Las Galletas;Las Galletas;;;Q70;Q268;28.007787,-16.659777,0.000001
+Port of Guía de Isora;Puerto de Guía de Isora;Guía de Isora;;;Q70;Q268;28.179628,-16.814877,0.000001
+Port of Garachico;Puerto de Garachico;Garachico;ESGRC;Comunidad Autónoma;Q70;Q268;28.373867,-16.754243,0.000001
+Port of El Sauzal;Puerto del Sauzal;El Sauzal;;;Q70;Q268;28.473921,-16.449236,0.000001
+Port of El Puertito de Güimar;Puerto del Puertito de Güimar;El Puertito de Güimar;;;Q70;Q268;28.286870,-16.380067,0.000001
+Port of El Pris - Tacoronte;Puerto del Pris -Tacoronte;El Pris - Tacoronte,,El Pris;;;Q70;Q268;28.50.8312,-16.421873,0.000001
+Port of El Medano;Puerto del Medano;El Medano;;;Q70;Q268;28.042933,-16.535301,0.000001
+Port of Candelaria;Puerto de Candelaria;Candelaria;;;Q70;Q268;28.357536,-16.368581,0.000001
+Port of Buenavista;Puerto de Buenavista;Buenavista,,Buenavista Norte;;;Q70;Q268;28.375614,-16.860261,0.000001
+Port of Los Cristianos (Arona);Puerto de Los Cristianos,,Arona;Los Cristianos,,Arona;ESLCR;Administración General del Estado;Q70;Q269;28.048897,-16.719369,0.000001
+Port of Alcalá;Puerto de Alcalá;Alcalá,,Alcala;;;Q70;Q269;28,200846,-16,829793,0.000001
+Port of Santa Cruz de La Palma;Puerto de Santa Cruz de La Palma;Santa Cruz de La Palma;ESSCP;Administración General del Estado;Q70;Q270;28.675897,-17.765771,0.000001
+Port of Villa de Mazo;Puerto de Villa de Mazo;Villa de Mazo;;;Q70;Q270;28.613093,-17.755255,0.000001
+Port of Tazacorte;Puerto de Tazacorte;Tazacorte;ESTAZ;;Q70;Q270;28.645521,-17.943262,0.000001
+Port of Fuencaliente;Puerto de Fuencaliente;Fuencaliente;;;Q70;Q270;28.499559,-17.812506,0.000001
+Port of San Sebastián de La Gomera;Puerto de San Sebastián de la Gomera;San Sebastián de la Gomera;ESSSG;Administración General del Estado;Q70;Q271;28.087822,-17.108896,0.000001
+Port of Valle Gran Rey;Puerto de Valle Gran Rey;Valle Gran Rey;;;Q70;Q271;28.081805,-17.331763,0.000001
+Port of Playa de Santiago;Puerto de Playa de Santiago;Playa de Santiago;ESPPS;;Q70;Q271;28.237102,-16.843482,0.000001
+Port of El Hierro;Puerto de El Hierro,,La Estaca;El Hierro,,La Estaca;ESVDE;Administración General del Estado;Q70;Q272;27.783694,-17.902028,0.000001
+Port of La Restinga;Puerto de La Restinga;La Restinga;ESLRT;;Q70;Q272;27.639875,-17.980785,0.000001
+Port of Gandía;Puerto de Gandía;Gandia,,Gandía;ESGAN;Administración General del Estado;Q70;Q273;38.994036,-0.157232,0.000001
+Port of Valencia;Puerto de Valencia;Valencia;ESVLC;Administración General del Estado;Q70;Q274;39.457480,-0.326892,0.000001
+Port of Perellonet;Puerto de Perellonet;Perellonet,,El Perellonet;;;Q70;Q274;39.278958,-0.275505,0.000001
+Port of Cullera;Puerto de Cullera;Cullera;ESCUL;Comunidad Autónoma;Q70;Q274;39.161185,-0.255731,0.000001
+Port of Sagunto;Puerto de Sagunto;Sagunto;ESSAG;Comunidad Autónoma;Q70;Q275;39.652178,-0.210065,0.000001
+Port of Portonovo;Puerto de Portonovo;Portonovo;;Comunidad Autónoma;Q70;Q276;43.394554,-8.822164,0.000001
+Port of Sanjenjo;Puerto de Sanjenjo;Sanjenjo,,Sanxenxo;;Comunidad Autónoma;Q70;Q276;43.397775,-8.802390,0.000001
+Port of Campelo;Puerto de Campelo;Campelo;ESCAM;Comunidad Autónoma;Q70;Q276;42.427451,-8.686181,0.000001
+Port of Combarro;Puerto de Combarro;Combarro;;;Q70;Q276;42.427646,-8.706264,0.000001
+Port of Rajó;Puerto de Rajó;Rajo,,Rajó,,Raxó;;Comunidad Autónoma;Q70;Q276;42.402516,-8.754176,0.000001
+Port of Marín;Puerto de Marín;Marín,,Marin;ESMPG;Administración General del Estado;Q70;Q277;42.397020,-8.696310,0.000001
+Port of Pontevedra;Puerto de Pontevedra;Pontevedra;;Comunidad Autónoma;Q70;Q277;42.435256,-8.649815,0.000001
+Port of Bueu;Puerto de Bueu;Bueu;ESBUE;Comunidad Autónoma;Q70;Q278;42.328911,-8.784404,0.000001
+Port of Cangas de Morrazo;Puerto de Cangas de Morrazo;Cangas de Morrazo,,Cangas;ESRAN;Comunidad Autónoma;Q70;Q279;42.259915,-8.782605,0.000001
+Port of Santa Cristina de Cobres;Puerto de Santa Cristina de Cobres;Santa Cristina de Cobres;;;Q70;Q279;42.318943,-8.648309,0.000001
+Port of San Adrían;Puerto de San Adrián;San Adrián,,San Adrían de Cobres;;Comunidad Autónoma;Q70;Q279;42.302484,-8.655380,0.000001
+Port of Panjón;Puerto de Panjón;Panjón;;Comunidad Autónoma;Q70;Q279;42.142444,-8.824732,0.000001
+Port of Meira;Puerto de Meira;Meira;;Comunidad Autónoma;Q70;Q279;42.282368,-8.719810,0.000001
+Port of Moaña;Puerto de Moaña;Moaña;ESMOA;Comunidad Autónoma;Q70;Q279;42.274126,-8.735162,0.000001
+Port of Aldán;Puerto de Aldán;Aldán,,Aldan-Hio;;Comunidad Autónoma;Q70;Q279;42,281934,-8,822294,0,000001
+Port of Vigo;Puerto de Vigo;Vigo;ESVGO;Administración General del Estado;Q70;Q280;42.229905,-8.749920,0.000001
+Port of Bouzas;Puerto de Bouzas;Bouzas;;;Q70;Q280;42.228761,-8.751635,0.000001
+Port of Bayona;Puerto de Bayona;Bayona;;;Q70;Q281;42.118912,-8.846055,0.000001
+Port of La Guardia;Puerto de La Guardia;La Guardia;;Comunidad Autónoma;Q70;Q282;41.899419,-8.876607,0.000001
+Port of Tuy;Puerto de Tuy;Tuy,,Tui;ESTUI;Comunidad Autónoma;Q70;Q282;42.041147,-8.643609,0.000001
+Port of Redondela;Puerto de Redondela,,Cesantes;Redondela,,Cesantes;;Comunidad Autónoma;Q70;Q283;42.295014,-8.616238,0.000001
+Port of Arcade;Puerto de Arcade;Arcade,,Sotomayor;;Comunidad Autónoma;Q70;Q283;42.339667,-8.614605,0.000001
+Port of Ribeira;Puerto de Ribeira;Ribeira;ESRBI;Comunidad Autónoma;Q70;Q284;42.560160,-8.989415,0.000001
+Port of Carreira-Aguiño;Puerto de Carreira-Aguiño;Carreira-Aguiño,,Aguiño;;Comunidad Autónoma;Q70;Q284;42.520154,-9.017754,0.000001
+Port of Puebla del Caramiñal;Puerto de Puebla del Caramiñal;La Puebla del Caramiñal,,Pobra do Caramiñal;ESPCA;Comunidad Autónoma;Q70;Q285;42.608396,-8.933034,0.000001
+Port of Cabo de Cruz;Puerto de Cabo de Cruz;Cabo de Cruz - Boiro,,Cabo de Cruz,,Boiro;;Comunidad Autónoma;Q70;Q285;42.616440,-8.889122,0.000001
+Port of Villagarcía de Arosa;Puerto de Villagarcía de Arosa;Villagarcía de Arosa,,Villagarcia de Arosa;ESVIL;Administración General del Estado;Q70;Q286;42.595831,-8.772080,0.000001
+Port of Villajuan;Puerto de Villajuan;Villajuan,,Vilaxoán;;Comunidad Autónoma;Q70;Q286;42.588892,-8.790789,0.000001
+Port of Rianjo;Puerto de Rianjo;Rianjo,,Rianxo;;Comunidad Autónoma;Q70;Q286;42.647543,-8.823798,0.000001
+Port of Pontecesures;Puerto de Pontecesures;Pontecesures;ESZJU;Comunidad Autónoma;Q70;Q286;42.722245,-8.654458,0.000001
+Port of Isla de Arosa;Puerto de Isla de Arosa;Isla de Arosa,,Illa de Arousa;;;Q70;Q286;42.565234,-8.867063,0.000001
+Port of Corrubedo;Puerto de Corrubedo;Corrubedo;;Comunidad Autónoma;Q70;Q286;42.573184,-9.071275,0.000001
+Port of Carril;Puerto de Carril;Carril;ESCIL;Comunidad Autónoma;Q70;Q286;42.614395,-8.778049,0.000001
+Port of El Grove/Isla de la Toja;Puerto de El Grove;El Grove;ESEGR;Comunidad Autónoma;Q70;Q287;42.496447,-8.862034,0.000001
+Port of Cambados;Puerto de Cambados,,Tragove;Cambados,,Tragove;ESCBD;Comunidad Autónoma;Q70;Q288;42.518518,-8.824874,0.000001
+Port of Villanueva ;Puerto de Villanueva;Villanueva,,Villanueva de Arosa;;Comunidad Autónoma;Q70;Q288;42.563841,-8.831675,0.000001
+Port of Suances;Puerto de Suances;Suances;;;Q70;Q150;43.429957,-4.034804,0.000001
+Port of Premiá De Mar;Puerto de Premiá De Mar;Premiá De Mar;;;Q70;Q203;41.488581,2.366040,0.000001
+Port of Canido;Puerto de Canido;Canido,,Cánido;;Comunidad Autónoma;Q70;Q280;42.194284,-8.800711,0.000001
+Port of Rinlo;Puerto de Rinlo;Rinlo;;Comunidad Autónoma;Q70;Q242;43.558141,-7.104507,0.000001
