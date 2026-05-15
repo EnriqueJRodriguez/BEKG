@@ -1,0 +1,43 @@
+PREFIX wd: <http://effkg.wikibase.cloud/entity/>
+PREFIX wdt: <http://effkg.wikibase.cloud/prop/direct/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+<AdministrativeUnit> {
+      wdt:P37 xsd:string ?; # Name
+}
+
+<LandAdministrativeUnit> EXTENDS @<AdministrativeUnit>  {}
+
+<MaritimeAdministrativeUnit> EXTENDS @<AdministrativeUnit> {}
+
+<FishingArea> EXTENDS @<MaritimeAdministrativeUnit>  {
+  	wdt:P35  [wd:Q13] ; # Instance of Fishing Area
+  	wdt:P1 xsd:string ?; # Defined by
+	wdt:P26 xsd:string; # Code
+	wdt:P36 @<FishingArea> ?; # Division of
+  	wdt:P38 @<FishingArea> ?; # Subarea of
+  	wdt:P39 @<FishingArea> *; # Divisions
+  	wdt:P40 @<FishingArea> *; # Subareas
+}
+
+# Administrative units derived from national level
+
+<MaritimalDistrict> EXTENDS @<MaritimeAdministrativeUnit>   {
+  	wdt:P35  [wd:Q138]; # Instance of Maritimal District
+	wdt:P26 xsd:string; # Code
+  	wdt:P3 @<MaritimalProvince>; # Belongs to administrative unit
+  	wdt:P7 @<Port>; # Has ports
+}
+
+<MaritimalProvince> EXTENDS @<MaritimeAdministrativeUnit> {
+  	wdt:P35  [wd:Q63]; # Instance of Maritimal Province
+	wdt:P5 xsd:string; # Plate name
+  	wdt:P6 .; # Flag (Commons Media File)
+  	wdt:P43 @<MaritimalDistrict> +; # Contains administrative unit
+        wdt:P3 @<SpanishAutonomousCommunity>; # Belongs to administrative unit
+}
+
+<SpanishAutonomousCommunity> EXTENDS @<LandAdministrativeUnit> {
+  	wdt:P35  [wd:Q28610]; # Instance of Spanish Autonomous Region
+        wdt:P43 @<MaritimalProvince>; #  Contains administrative unit
+}

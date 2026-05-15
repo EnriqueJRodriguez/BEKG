@@ -1,0 +1,57 @@
+PREFIX wd: <http://effkg.wikibase.cloud/entity/>
+PREFIX wdt: <http://effkg.wikibase.cloud/prop/direct/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+<Vessel> {
+    # Properties derived from supranational level
+    wdt:P11 @<FishingPort> *; # Registration place	
+    wdt:P12 xsd:string; # CFR
+    wdt:P23 xsd:quantity *; # Main Engine Power (KwH, Hp)
+    wdt:P27 @<Material> ?; # Hull Material
+    wdt:P37 xsd:string *; # Name
+
+    # Properties derived from national level
+    wdt:P26 xsd:string ?; # Code
+    wdt:P31 xsd:date ?; # Registration on national registry
+    wdt:P32 xsd:string ?; # Status in national registry (qualified by P33 "since")
+    wdt:P34 . ? ; # Image
+    wdt:P41 @<FishingArea> ?; # Operates at
+    wdt:P56 xsd:string ?; # Administration responsible of registration
+}
+
+<FishingVessel> EXTENDS @<Vessel> {
+    wdt:P35  [wd:Q24];
+    
+    # Properties derived from supranational level
+    wdt:P9 xsd:string; # External marking
+    wdt:P10 xsd:string; # Registration number
+    wdt:P14 xsd:string ?; # UVI
+    wdt:P15 xsd:string ?; # MMSI
+    wdt:P16 xsd:quantity; # LOA (metres)
+    wdt:P17 xsd:quantity ?; # LBP (metres)
+    wdt:P20 xsd:quantity ?; # GT Tonnage (tonnes)
+    wdt:P21 xsd:quantity ?; # Other tonnage (tonnes)
+    wdt:P22 xsd:quantity ?; # Safety Tonnage Gts
+    wdt:P24 xsd:quantity ?; # Aux. Engine Power
+    wdt:P25 @<FishingGearCategory>; # has Fishing Gear Category
+    wdt:P28 @<OnboardEquipment> *; # On board equipment
+    wdt:P29 xsd:date; # Entry into service date
+    wdt:P30 xsd:date ?; # Date of construction
+    wdt:P51 @<FishingVesselCategory>; # Fishing Vessel Category
+    wdt:P55 xsd:string +; # Country of registration (code)
+    wdt:P57 xsd:date ?; # Date of destruction
+    wdt:P58 xsd:date ?; # Date of retirement
+    wdt:P59 xsd:string *; # Segment
+
+    # Properties derived from national level
+    wdt:P49 xsd:string ?; # IMO
+}
+
+<VesselSupportingFishingRelatedActivities> EXTENDS @<Vessel>{
+    wdt:P35  [wd:Q398];
+    wdt:P51 @<VesselSupportingFishingRelatedActivitiesCategory>; # Supporting Vessel Category
+}
+  
+<Material> {
+	wdt:P26 xsd:string; # Code
+}

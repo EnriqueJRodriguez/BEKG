@@ -1,0 +1,21 @@
+PREFIX wd: <http://effkg.wikibase.cloud/entity/>
+PREFIX wdt: <http://effkg.wikibase.cloud/prop/direct/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+<Port> {
+  	wdt:P35  [wd:Q609]; 
+  	wdt:P3 @<AdministrativeUnit> *; # Belongs to Administrative Unit
+  	wdt:P26 xsd:string +; # Code
+  	wdt:P37 xsd:string +; # Name
+  	wdt:P42 xsd:coordinate +; # Coordinates
+  	wdt:P45 xsd:integer *; # Number of vessels, qualified by date (wdt:P58)
+  	wdt:P60 xsd:string *; # Administrated by
+}
+  
+<FishingPort> EXTENDS @<Port> {
+  	wdt:P35  [wd:Q62];
+}
+  
+<IndustrialPort> EXTENDS @<Port> {
+  	wdt:P35  [wd:Q144];
+}

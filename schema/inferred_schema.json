@@ -1,0 +1,1376 @@
+{
+  "class": {
+    "label": "class",
+    "entity_count": 37,
+    "properties": {
+      "P19": {
+        "label": "Wikidata reference",
+        "datatype": "external-id",
+        "entities_with_prop": 2,
+        "entity_coverage": 0.054,
+        "total_statements": 2,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P52": {
+        "label": "subclass of",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 13,
+        "entity_coverage": 0.351,
+        "total_statements": 13,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      }
+    }
+  },
+  "Q472": {
+    "label": "Fishing Gear Category",
+    "entity_count": 71,
+    "properties": {
+      "P26": {
+        "label": "code",
+        "datatype": "string",
+        "entities_with_prop": 71,
+        "entity_coverage": 1.0,
+        "total_statements": 129,
+        "min_per_entity": 1,
+        "max_per_entity": 2,
+        "avg_per_entity": 1.82,
+        "qualifiers": {
+          "P47": {
+            "label": "start date",
+            "statements_with": 129,
+            "statement_coverage": 1.0,
+            "min_per_statement": 1,
+            "max_per_statement": 2,
+            "avg_per_statement": 1.01
+          },
+          "P48": {
+            "label": "end date",
+            "statements_with": 57,
+            "statement_coverage": 0.442,
+            "min_per_statement": 1,
+            "max_per_statement": 1,
+            "avg_per_statement": 1.0
+          }
+        }
+      },
+      "P53": {
+        "label": "abbreviation",
+        "datatype": "string",
+        "entities_with_prop": 60,
+        "entity_coverage": 0.845,
+        "total_statements": 60,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P18": {
+        "label": "has parent category",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 60,
+        "entity_coverage": 0.845,
+        "total_statements": 60,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      }
+    }
+  },
+  "Q13": {
+    "label": "Fishing Area",
+    "entity_count": 115,
+    "properties": {
+      "P37": {
+        "label": "name",
+        "datatype": "string",
+        "entities_with_prop": 115,
+        "entity_coverage": 1.0,
+        "total_statements": 119,
+        "min_per_entity": 1,
+        "max_per_entity": 2,
+        "avg_per_entity": 1.03,
+        "qualifiers": {}
+      },
+      "P26": {
+        "label": "code",
+        "datatype": "string",
+        "entities_with_prop": 115,
+        "entity_coverage": 1.0,
+        "total_statements": 117,
+        "min_per_entity": 1,
+        "max_per_entity": 3,
+        "avg_per_entity": 1.02,
+        "qualifiers": {
+          "P32": {
+            "label": "status on national registry",
+            "statements_with": 1,
+            "statement_coverage": 0.009,
+            "min_per_statement": 1,
+            "max_per_statement": 1,
+            "avg_per_statement": 1.0
+          }
+        }
+      },
+      "P40": {
+        "label": "has subareas",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 3,
+        "entity_coverage": 0.026,
+        "total_statements": 19,
+        "min_per_entity": 1,
+        "max_per_entity": 14,
+        "avg_per_entity": 6.33,
+        "qualifiers": {}
+      },
+      "P1": {
+        "label": "defined by",
+        "datatype": "string",
+        "entities_with_prop": 3,
+        "entity_coverage": 0.026,
+        "total_statements": 3,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P38": {
+        "label": "subarea of",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 19,
+        "entity_coverage": 0.165,
+        "total_statements": 21,
+        "min_per_entity": 1,
+        "max_per_entity": 2,
+        "avg_per_entity": 1.11,
+        "qualifiers": {
+          "P32": {
+            "label": "status on national registry",
+            "statements_with": 2,
+            "statement_coverage": 0.095,
+            "min_per_statement": 1,
+            "max_per_statement": 1,
+            "avg_per_statement": 1.0
+          }
+        }
+      },
+      "P39": {
+        "label": "has divisions",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 34,
+        "entity_coverage": 0.296,
+        "total_statements": 94,
+        "min_per_entity": 2,
+        "max_per_entity": 10,
+        "avg_per_entity": 2.76,
+        "qualifiers": {}
+      },
+      "P36": {
+        "label": "division of",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 93,
+        "entity_coverage": 0.809,
+        "total_statements": 93,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      }
+    }
+  },
+  "Q63": {
+    "label": "Maritimal Province",
+    "entity_count": 30,
+    "properties": {
+      "P5": {
+        "label": "plate name",
+        "datatype": "string",
+        "entities_with_prop": 30,
+        "entity_coverage": 1.0,
+        "total_statements": 31,
+        "min_per_entity": 1,
+        "max_per_entity": 2,
+        "avg_per_entity": 1.03,
+        "qualifiers": {}
+      },
+      "P6": {
+        "label": "flag",
+        "datatype": "commonsMedia",
+        "entities_with_prop": 29,
+        "entity_coverage": 0.967,
+        "total_statements": 29,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P43": {
+        "label": "contains administrative unit",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 30,
+        "entity_coverage": 1.0,
+        "total_statements": 108,
+        "min_per_entity": 1,
+        "max_per_entity": 8,
+        "avg_per_entity": 3.6,
+        "qualifiers": {}
+      },
+      "P3": {
+        "label": "belongs to administrative unit",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 28,
+        "entity_coverage": 0.933,
+        "total_statements": 28,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      }
+    }
+  },
+  "Q62": {
+    "label": "Fishing Port",
+    "entity_count": 1997,
+    "properties": {
+      "P42": {
+        "label": "coordinates",
+        "datatype": "globe-coordinate",
+        "entities_with_prop": 1925,
+        "entity_coverage": 0.964,
+        "total_statements": 1927,
+        "min_per_entity": 1,
+        "max_per_entity": 2,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P45": {
+        "label": "number of vessels",
+        "datatype": "quantity",
+        "entities_with_prop": 278,
+        "entity_coverage": 0.139,
+        "total_statements": 5177,
+        "min_per_entity": 1,
+        "max_per_entity": 20,
+        "avg_per_entity": 18.62,
+        "qualifiers": {
+          "P44": {
+            "label": "date",
+            "statements_with": 5177,
+            "statement_coverage": 1.0,
+            "min_per_statement": 1,
+            "max_per_statement": 1,
+            "avg_per_statement": 1.0
+          }
+        }
+      },
+      "P26": {
+        "label": "code",
+        "datatype": "string",
+        "entities_with_prop": 1990,
+        "entity_coverage": 0.996,
+        "total_statements": 2028,
+        "min_per_entity": 1,
+        "max_per_entity": 2,
+        "avg_per_entity": 1.02,
+        "qualifiers": {}
+      },
+      "P37": {
+        "label": "name",
+        "datatype": "string",
+        "entities_with_prop": 1997,
+        "entity_coverage": 1.0,
+        "total_statements": 2119,
+        "min_per_entity": 1,
+        "max_per_entity": 5,
+        "avg_per_entity": 1.06,
+        "qualifiers": {}
+      },
+      "P3": {
+        "label": "belongs to administrative unit",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 293,
+        "entity_coverage": 0.147,
+        "total_statements": 294,
+        "min_per_entity": 1,
+        "max_per_entity": 2,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P60": {
+        "label": "administrated by",
+        "datatype": "string",
+        "entities_with_prop": 155,
+        "entity_coverage": 0.078,
+        "total_statements": 155,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      }
+    }
+  },
+  "Q144": {
+    "label": "Industrial Port",
+    "entity_count": 1,
+    "properties": {
+      "P42": {
+        "label": "coordinates",
+        "datatype": "globe-coordinate",
+        "entities_with_prop": 1,
+        "entity_coverage": 1.0,
+        "total_statements": 1,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P3": {
+        "label": "belongs to administrative unit",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 1,
+        "entity_coverage": 1.0,
+        "total_statements": 1,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P37": {
+        "label": "name",
+        "datatype": "string",
+        "entities_with_prop": 1,
+        "entity_coverage": 1.0,
+        "total_statements": 1,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P26": {
+        "label": "code",
+        "datatype": "string",
+        "entities_with_prop": 1,
+        "entity_coverage": 1.0,
+        "total_statements": 1,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      }
+    }
+  },
+  "Q138": {
+    "label": "Maritimal District",
+    "entity_count": 108,
+    "properties": {
+      "P26": {
+        "label": "code",
+        "datatype": "string",
+        "entities_with_prop": 108,
+        "entity_coverage": 1.0,
+        "total_statements": 121,
+        "min_per_entity": 1,
+        "max_per_entity": 3,
+        "avg_per_entity": 1.12,
+        "qualifiers": {}
+      },
+      "P3": {
+        "label": "belongs to administrative unit",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 108,
+        "entity_coverage": 1.0,
+        "total_statements": 108,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P7": {
+        "label": "has ports",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 108,
+        "entity_coverage": 1.0,
+        "total_statements": 295,
+        "min_per_entity": 1,
+        "max_per_entity": 20,
+        "avg_per_entity": 2.73,
+        "qualifiers": {}
+      }
+    }
+  },
+  "Q28610": {
+    "label": "Spanish Autonomous Community",
+    "entity_count": 17,
+    "properties": {
+      "P43": {
+        "label": "contains administrative unit",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 10,
+        "entity_coverage": 0.588,
+        "total_statements": 28,
+        "min_per_entity": 1,
+        "max_per_entity": 7,
+        "avg_per_entity": 2.8,
+        "qualifiers": {}
+      }
+    }
+  },
+  "Q482": {
+    "label": "Material",
+    "entity_count": 9,
+    "properties": {
+      "P26": {
+        "label": "code",
+        "datatype": "string",
+        "entities_with_prop": 7,
+        "entity_coverage": 0.778,
+        "total_statements": 7,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      }
+    }
+  },
+  "Q471": {
+    "label": "Vessel Category",
+    "entity_count": 2,
+    "properties": {
+      "P50": {
+        "label": "category of",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 2,
+        "entity_coverage": 1.0,
+        "total_statements": 2,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      }
+    }
+  },
+  "Q399": {
+    "label": "Fishing Vessel Category",
+    "entity_count": 48,
+    "properties": {
+      "P53": {
+        "label": "abbreviation",
+        "datatype": "string",
+        "entities_with_prop": 48,
+        "entity_coverage": 1.0,
+        "total_statements": 48,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P26": {
+        "label": "code",
+        "datatype": "string",
+        "entities_with_prop": 45,
+        "entity_coverage": 0.938,
+        "total_statements": 45,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P18": {
+        "label": "has parent category",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 36,
+        "entity_coverage": 0.75,
+        "total_statements": 36,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P54": {
+        "label": "superseded by",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 3,
+        "entity_coverage": 0.062,
+        "total_statements": 3,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {
+          "P44": {
+            "label": "date",
+            "statements_with": 3,
+            "statement_coverage": 1.0,
+            "min_per_statement": 1,
+            "max_per_statement": 1,
+            "avg_per_statement": 1.0
+          }
+        }
+      }
+    }
+  },
+  "Q448": {
+    "label": "Vessel supporting fishing related activities Category",
+    "entity_count": 18,
+    "properties": {
+      "P26": {
+        "label": "code",
+        "datatype": "string",
+        "entities_with_prop": 18,
+        "entity_coverage": 1.0,
+        "total_statements": 18,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P53": {
+        "label": "abbreviation",
+        "datatype": "string",
+        "entities_with_prop": 18,
+        "entity_coverage": 1.0,
+        "total_statements": 18,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P18": {
+        "label": "has parent category",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 11,
+        "entity_coverage": 0.611,
+        "total_statements": 11,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      }
+    }
+  },
+  "Q473": {
+    "label": "Category",
+    "entity_count": 2,
+    "properties": {
+      "P50": {
+        "label": "category of",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 2,
+        "entity_coverage": 1.0,
+        "total_statements": 2,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      }
+    }
+  },
+  "Q24": {
+    "label": "Fishing Vessel",
+    "entity_count": 185047,
+    "properties": {
+      "P9": {
+        "label": "external marking",
+        "datatype": "string",
+        "entities_with_prop": 184955,
+        "entity_coverage": 1.0,
+        "total_statements": 185630,
+        "min_per_entity": 1,
+        "max_per_entity": 4,
+        "avg_per_entity": 1.0,
+        "qualifiers": {
+          "P55": {
+            "label": "country of registration",
+            "statements_with": 1259,
+            "statement_coverage": 0.007,
+            "min_per_statement": 1,
+            "max_per_statement": 1,
+            "avg_per_statement": 1.0
+          }
+        }
+      },
+      "P10": {
+        "label": "registration number",
+        "datatype": "string",
+        "entities_with_prop": 182825,
+        "entity_coverage": 0.988,
+        "total_statements": 183414,
+        "min_per_entity": 1,
+        "max_per_entity": 4,
+        "avg_per_entity": 1.0,
+        "qualifiers": {
+          "P55": {
+            "label": "country of registration",
+            "statements_with": 1100,
+            "statement_coverage": 0.006,
+            "min_per_statement": 1,
+            "max_per_statement": 1,
+            "avg_per_statement": 1.0
+          }
+        }
+      },
+      "P16": {
+        "label": "LOA",
+        "datatype": "quantity",
+        "entities_with_prop": 181059,
+        "entity_coverage": 0.978,
+        "total_statements": 181372,
+        "min_per_entity": 1,
+        "max_per_entity": 3,
+        "avg_per_entity": 1.0,
+        "qualifiers": {
+          "P55": {
+            "label": "country of registration",
+            "statements_with": 613,
+            "statement_coverage": 0.003,
+            "min_per_statement": 1,
+            "max_per_statement": 3,
+            "avg_per_statement": 1.03
+          }
+        }
+      },
+      "P17": {
+        "label": "LBP",
+        "datatype": "quantity",
+        "entities_with_prop": 77643,
+        "entity_coverage": 0.42,
+        "total_statements": 77701,
+        "min_per_entity": 1,
+        "max_per_entity": 3,
+        "avg_per_entity": 1.0,
+        "qualifiers": {
+          "P55": {
+            "label": "country of registration",
+            "statements_with": 101,
+            "statement_coverage": 0.001,
+            "min_per_statement": 1,
+            "max_per_statement": 2,
+            "avg_per_statement": 1.02
+          }
+        }
+      },
+      "P20": {
+        "label": "GT Tonnage",
+        "datatype": "quantity",
+        "entities_with_prop": 153269,
+        "entity_coverage": 0.828,
+        "total_statements": 153640,
+        "min_per_entity": 1,
+        "max_per_entity": 3,
+        "avg_per_entity": 1.0,
+        "qualifiers": {
+          "P55": {
+            "label": "country of registration",
+            "statements_with": 712,
+            "statement_coverage": 0.005,
+            "min_per_statement": 1,
+            "max_per_statement": 3,
+            "avg_per_statement": 1.02
+          }
+        }
+      },
+      "P25": {
+        "label": "has fishing gear category",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 185036,
+        "entity_coverage": 1.0,
+        "total_statements": 371045,
+        "min_per_entity": 1,
+        "max_per_entity": 8,
+        "avg_per_entity": 2.01,
+        "qualifiers": {
+          "P55": {
+            "label": "country of registration",
+            "statements_with": 1934,
+            "statement_coverage": 0.005,
+            "min_per_statement": 1,
+            "max_per_statement": 4,
+            "avg_per_statement": 1.36
+          }
+        }
+      },
+      "P26": {
+        "label": "code",
+        "datatype": "string",
+        "entities_with_prop": 27383,
+        "entity_coverage": 0.148,
+        "total_statements": 27384,
+        "min_per_entity": 1,
+        "max_per_entity": 2,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P29": {
+        "label": "entry into service date",
+        "datatype": "time",
+        "entities_with_prop": 182820,
+        "entity_coverage": 0.988,
+        "total_statements": 183413,
+        "min_per_entity": 1,
+        "max_per_entity": 4,
+        "avg_per_entity": 1.0,
+        "qualifiers": {
+          "P55": {
+            "label": "country of registration",
+            "statements_with": 1137,
+            "statement_coverage": 0.006,
+            "min_per_statement": 1,
+            "max_per_statement": 2,
+            "avg_per_statement": 1.0
+          }
+        }
+      },
+      "P31": {
+        "label": "registration on national registry",
+        "datatype": "time",
+        "entities_with_prop": 27382,
+        "entity_coverage": 0.148,
+        "total_statements": 27383,
+        "min_per_entity": 1,
+        "max_per_entity": 2,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P32": {
+        "label": "status on national registry",
+        "datatype": "string",
+        "entities_with_prop": 27384,
+        "entity_coverage": 0.148,
+        "total_statements": 27585,
+        "min_per_entity": 1,
+        "max_per_entity": 2,
+        "avg_per_entity": 1.01,
+        "qualifiers": {
+          "P33": {
+            "label": "since",
+            "statements_with": 27585,
+            "statement_coverage": 1.0,
+            "min_per_statement": 1,
+            "max_per_statement": 1,
+            "avg_per_statement": 1.0
+          }
+        }
+      },
+      "P37": {
+        "label": "name",
+        "datatype": "string",
+        "entities_with_prop": 176713,
+        "entity_coverage": 0.955,
+        "total_statements": 177257,
+        "min_per_entity": 1,
+        "max_per_entity": 4,
+        "avg_per_entity": 1.0,
+        "qualifiers": {
+          "P55": {
+            "label": "country of registration",
+            "statements_with": 954,
+            "statement_coverage": 0.005,
+            "min_per_statement": 1,
+            "max_per_statement": 2,
+            "avg_per_statement": 1.01
+          }
+        }
+      },
+      "P49": {
+        "label": "IMO",
+        "datatype": "string",
+        "entities_with_prop": 27384,
+        "entity_coverage": 0.148,
+        "total_statements": 27386,
+        "min_per_entity": 1,
+        "max_per_entity": 2,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P55": {
+        "label": "country of registration",
+        "datatype": "string",
+        "entities_with_prop": 185046,
+        "entity_coverage": 1.0,
+        "total_statements": 185707,
+        "min_per_entity": 1,
+        "max_per_entity": 4,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P56": {
+        "label": "administration responsible of registration",
+        "datatype": "string",
+        "entities_with_prop": 27384,
+        "entity_coverage": 0.148,
+        "total_statements": 27384,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P58": {
+        "label": "date of retirement",
+        "datatype": "time",
+        "entities_with_prop": 71873,
+        "entity_coverage": 0.388,
+        "total_statements": 71907,
+        "min_per_entity": 1,
+        "max_per_entity": 2,
+        "avg_per_entity": 1.0,
+        "qualifiers": {
+          "P55": {
+            "label": "country of registration",
+            "statements_with": 264,
+            "statement_coverage": 0.004,
+            "min_per_statement": 1,
+            "max_per_statement": 1,
+            "avg_per_statement": 1.0
+          }
+        }
+      },
+      "P59": {
+        "label": "segment",
+        "datatype": "string",
+        "entities_with_prop": 184630,
+        "entity_coverage": 0.998,
+        "total_statements": 184828,
+        "min_per_entity": 1,
+        "max_per_entity": 3,
+        "avg_per_entity": 1.0,
+        "qualifiers": {
+          "P55": {
+            "label": "country of registration",
+            "statements_with": 389,
+            "statement_coverage": 0.002,
+            "min_per_statement": 1,
+            "max_per_statement": 2,
+            "avg_per_statement": 1.02
+          }
+        }
+      },
+      "P12": {
+        "label": "CFR",
+        "datatype": "string",
+        "entities_with_prop": 185047,
+        "entity_coverage": 1.0,
+        "total_statements": 185047,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P23": {
+        "label": "main engine power",
+        "datatype": "quantity",
+        "entities_with_prop": 170267,
+        "entity_coverage": 0.92,
+        "total_statements": 207036,
+        "min_per_entity": 1,
+        "max_per_entity": 5,
+        "avg_per_entity": 1.22,
+        "qualifiers": {
+          "P55": {
+            "label": "country of registration",
+            "statements_with": 818,
+            "statement_coverage": 0.004,
+            "min_per_statement": 1,
+            "max_per_statement": 2,
+            "avg_per_statement": 1.02
+          }
+        }
+      },
+      "P51": {
+        "label": "has vessel category",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 184439,
+        "entity_coverage": 0.997,
+        "total_statements": 184455,
+        "min_per_entity": 1,
+        "max_per_entity": 2,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P41": {
+        "label": "operates at",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 23777,
+        "entity_coverage": 0.128,
+        "total_statements": 23777,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P11": {
+        "label": "registration place",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 117433,
+        "entity_coverage": 0.635,
+        "total_statements": 121723,
+        "min_per_entity": 1,
+        "max_per_entity": 3,
+        "avg_per_entity": 1.04,
+        "qualifiers": {
+          "P55": {
+            "label": "country of registration",
+            "statements_with": 441,
+            "statement_coverage": 0.004,
+            "min_per_statement": 1,
+            "max_per_statement": 1,
+            "avg_per_statement": 1.0
+          }
+        }
+      },
+      "P27": {
+        "label": "hull material",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 170163,
+        "entity_coverage": 0.92,
+        "total_statements": 172468,
+        "min_per_entity": 1,
+        "max_per_entity": 2,
+        "avg_per_entity": 1.01,
+        "qualifiers": {
+          "P55": {
+            "label": "country of registration",
+            "statements_with": 38,
+            "statement_coverage": 0.0,
+            "min_per_statement": 1,
+            "max_per_statement": 2,
+            "avg_per_statement": 1.03
+          }
+        }
+      },
+      "P15": {
+        "label": "MMSI",
+        "datatype": "string",
+        "entities_with_prop": 20273,
+        "entity_coverage": 0.11,
+        "total_statements": 20311,
+        "min_per_entity": 1,
+        "max_per_entity": 3,
+        "avg_per_entity": 1.0,
+        "qualifiers": {
+          "P55": {
+            "label": "country of registration",
+            "statements_with": 63,
+            "statement_coverage": 0.003,
+            "min_per_statement": 1,
+            "max_per_statement": 1,
+            "avg_per_statement": 1.0
+          }
+        }
+      },
+      "P21": {
+        "label": "other tonnage",
+        "datatype": "quantity",
+        "entities_with_prop": 126253,
+        "entity_coverage": 0.682,
+        "total_statements": 126254,
+        "min_per_entity": 1,
+        "max_per_entity": 2,
+        "avg_per_entity": 1.0,
+        "qualifiers": {
+          "P55": {
+            "label": "country of registration",
+            "statements_with": 3,
+            "statement_coverage": 0.0,
+            "min_per_statement": 1,
+            "max_per_statement": 1,
+            "avg_per_statement": 1.0
+          }
+        }
+      },
+      "P24": {
+        "label": "auxiliar engine power",
+        "datatype": "quantity",
+        "entities_with_prop": 9399,
+        "entity_coverage": 0.051,
+        "total_statements": 9499,
+        "min_per_entity": 1,
+        "max_per_entity": 3,
+        "avg_per_entity": 1.01,
+        "qualifiers": {
+          "P55": {
+            "label": "country of registration",
+            "statements_with": 190,
+            "statement_coverage": 0.02,
+            "min_per_statement": 1,
+            "max_per_statement": 2,
+            "avg_per_statement": 1.01
+          }
+        }
+      },
+      "P28": {
+        "label": "on board equipment",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 67942,
+        "entity_coverage": 0.367,
+        "total_statements": 115625,
+        "min_per_entity": 1,
+        "max_per_entity": 7,
+        "avg_per_entity": 1.7,
+        "qualifiers": {
+          "P13": {
+            "label": "IRCS",
+            "statements_with": 52865,
+            "statement_coverage": 0.457,
+            "min_per_statement": 1,
+            "max_per_statement": 1,
+            "avg_per_statement": 1.0
+          },
+          "P55": {
+            "label": "country of registration",
+            "statements_with": 2426,
+            "statement_coverage": 0.021,
+            "min_per_statement": 1,
+            "max_per_statement": 4,
+            "avg_per_statement": 1.22
+          }
+        }
+      },
+      "P30": {
+        "label": "date of construction",
+        "datatype": "time",
+        "entities_with_prop": 160196,
+        "entity_coverage": 0.866,
+        "total_statements": 160326,
+        "min_per_entity": 1,
+        "max_per_entity": 2,
+        "avg_per_entity": 1.0,
+        "qualifiers": {
+          "P55": {
+            "label": "country of registration",
+            "statements_with": 240,
+            "statement_coverage": 0.001,
+            "min_per_statement": 1,
+            "max_per_statement": 2,
+            "avg_per_statement": 1.05
+          }
+        }
+      },
+      "P57": {
+        "label": "date of destruction",
+        "datatype": "time",
+        "entities_with_prop": 42557,
+        "entity_coverage": 0.23,
+        "total_statements": 42557,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P14": {
+        "label": "UVI",
+        "datatype": "string",
+        "entities_with_prop": 3868,
+        "entity_coverage": 0.021,
+        "total_statements": 3868,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P22": {
+        "label": "safety tonnage GTs",
+        "datatype": "quantity",
+        "entities_with_prop": 338,
+        "entity_coverage": 0.002,
+        "total_statements": 338,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      }
+    }
+  },
+  "Q398": {
+    "label": "Vessel supporting fishing related activities",
+    "entity_count": 3147,
+    "properties": {
+      "P26": {
+        "label": "code",
+        "datatype": "string",
+        "entities_with_prop": 3147,
+        "entity_coverage": 1.0,
+        "total_statements": 3147,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P31": {
+        "label": "registration on national registry",
+        "datatype": "time",
+        "entities_with_prop": 3147,
+        "entity_coverage": 1.0,
+        "total_statements": 3147,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P32": {
+        "label": "status on national registry",
+        "datatype": "string",
+        "entities_with_prop": 3147,
+        "entity_coverage": 1.0,
+        "total_statements": 3148,
+        "min_per_entity": 1,
+        "max_per_entity": 2,
+        "avg_per_entity": 1.0,
+        "qualifiers": {
+          "P33": {
+            "label": "since",
+            "statements_with": 3148,
+            "statement_coverage": 1.0,
+            "min_per_statement": 1,
+            "max_per_statement": 1,
+            "avg_per_statement": 1.0
+          }
+        }
+      },
+      "P37": {
+        "label": "name",
+        "datatype": "string",
+        "entities_with_prop": 3147,
+        "entity_coverage": 1.0,
+        "total_statements": 3150,
+        "min_per_entity": 1,
+        "max_per_entity": 2,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P49": {
+        "label": "IMO",
+        "datatype": "string",
+        "entities_with_prop": 3147,
+        "entity_coverage": 1.0,
+        "total_statements": 3147,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P56": {
+        "label": "administration responsible of registration",
+        "datatype": "string",
+        "entities_with_prop": 3147,
+        "entity_coverage": 1.0,
+        "total_statements": 3147,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P12": {
+        "label": "CFR",
+        "datatype": "string",
+        "entities_with_prop": 3147,
+        "entity_coverage": 1.0,
+        "total_statements": 3147,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P23": {
+        "label": "main engine power",
+        "datatype": "quantity",
+        "entities_with_prop": 3147,
+        "entity_coverage": 1.0,
+        "total_statements": 6305,
+        "min_per_entity": 2,
+        "max_per_entity": 4,
+        "avg_per_entity": 2.0,
+        "qualifiers": {}
+      },
+      "P51": {
+        "label": "has vessel category",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 3147,
+        "entity_coverage": 1.0,
+        "total_statements": 3149,
+        "min_per_entity": 1,
+        "max_per_entity": 2,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P11": {
+        "label": "registration place",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 3055,
+        "entity_coverage": 0.971,
+        "total_statements": 3055,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P27": {
+        "label": "hull material",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 3147,
+        "entity_coverage": 1.0,
+        "total_statements": 3147,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P41": {
+        "label": "operates at",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 53,
+        "entity_coverage": 0.017,
+        "total_statements": 53,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P9": {
+        "label": "external marking",
+        "datatype": "string",
+        "entities_with_prop": 1,
+        "entity_coverage": 0.0,
+        "total_statements": 1,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P10": {
+        "label": "registration number",
+        "datatype": "string",
+        "entities_with_prop": 1,
+        "entity_coverage": 0.0,
+        "total_statements": 1,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P14": {
+        "label": "UVI",
+        "datatype": "string",
+        "entities_with_prop": 1,
+        "entity_coverage": 0.0,
+        "total_statements": 1,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P16": {
+        "label": "LOA",
+        "datatype": "quantity",
+        "entities_with_prop": 1,
+        "entity_coverage": 0.0,
+        "total_statements": 1,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P20": {
+        "label": "GT Tonnage",
+        "datatype": "quantity",
+        "entities_with_prop": 1,
+        "entity_coverage": 0.0,
+        "total_statements": 1,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P24": {
+        "label": "auxiliar engine power",
+        "datatype": "quantity",
+        "entities_with_prop": 1,
+        "entity_coverage": 0.0,
+        "total_statements": 1,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P25": {
+        "label": "has fishing gear category",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 1,
+        "entity_coverage": 0.0,
+        "total_statements": 2,
+        "min_per_entity": 2,
+        "max_per_entity": 2,
+        "avg_per_entity": 2.0,
+        "qualifiers": {}
+      },
+      "P28": {
+        "label": "on board equipment",
+        "datatype": "wikibase-item",
+        "entities_with_prop": 1,
+        "entity_coverage": 0.0,
+        "total_statements": 4,
+        "min_per_entity": 4,
+        "max_per_entity": 4,
+        "avg_per_entity": 4.0,
+        "qualifiers": {
+          "P13": {
+            "label": "IRCS",
+            "statements_with": 1,
+            "statement_coverage": 0.25,
+            "min_per_statement": 1,
+            "max_per_statement": 1,
+            "avg_per_statement": 1.0
+          }
+        }
+      },
+      "P29": {
+        "label": "entry into service date",
+        "datatype": "time",
+        "entities_with_prop": 1,
+        "entity_coverage": 0.0,
+        "total_statements": 1,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P30": {
+        "label": "date of construction",
+        "datatype": "time",
+        "entities_with_prop": 1,
+        "entity_coverage": 0.0,
+        "total_statements": 1,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P55": {
+        "label": "country of registration",
+        "datatype": "string",
+        "entities_with_prop": 1,
+        "entity_coverage": 0.0,
+        "total_statements": 1,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      },
+      "P59": {
+        "label": "segment",
+        "datatype": "string",
+        "entities_with_prop": 1,
+        "entity_coverage": 0.0,
+        "total_statements": 1,
+        "min_per_entity": 1,
+        "max_per_entity": 1,
+        "avg_per_entity": 1.0,
+        "qualifiers": {}
+      }
+    }
+  }
+}
