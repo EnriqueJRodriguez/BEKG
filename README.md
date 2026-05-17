@@ -16,7 +16,7 @@ The dataset is additionally archived on [Zenodo]()
 ## Table of Contents
 
 - [Original Sources](#original-sources)
-- [Knowledge Graph Scope](#knowledge-graph-scope)
+- [Knowledge Graph Scope and Data Model](#knowledge-graph-scope-and-data-model)
 - [Dataset Versioning, Licensing, and Statistics](#dataset-versioning-licensing-and-statistics)
 - [Reproducibility](#reproducibility)
 - [Repository Structure](#repository-structure)
@@ -49,7 +49,7 @@ The primary data sources included in the current release are grouped as follows:
 
 The integrated sources contain documentary and administrative records describing the European fishing fleet, maritime infrastructures, administrative divisions, and regulatory or international classification systems. Several sources required extensive preprocessing in order to generate machine-actionable semantic representations.
 
-## Knowledge Graph Scope
+## Knowledge Graph Scope and Data Model
 
 The dataset covers the European fishing fleet and selected components of the associated maritime infrastructure. Vessel entities are primarily derived from the European Fleet Register, which serves as the reference source to ensure comprehensive coverage of active fishing vessels at the European level.
 
@@ -59,7 +59,10 @@ Maritime infrastructure is represented through the integration of port entities 
 
 Entities are incorporated based on their presence in at least one authoritative source and their compatibility with the unified semantic model. When multiple datasets describe the same real-world entity, records are reconciled and semantically integrated.
 
-The dataset is designed to support incremental extension through the incorporation of additional national datasets and maritime-related domains.
+The dataset and its data model is designed to support incremental extension through the incorporation of additional national datasets and maritime-related domains. The current version data model:
+
+<img src="data_model/data-model.png">
+
 
 ## Dataset Versioning, Licensing, and Statistics
 
@@ -116,6 +119,8 @@ The JSON and RDF datasets provided in this repository correspond to the data ing
 * **schema**: Contains both the Shape Expressions defining the entity structure of the dataset and the outputs generated during the validation process.
 
 * **source_data**: Contains original and preprocessed source data prepared for data consolidation and knowledge graph population.
+
+* **data_model**: Contains the current data model and its sources and interactions.
 
 ## Intended Audience
 
