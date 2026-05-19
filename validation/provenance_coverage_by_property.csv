@@ -1,0 +1,51 @@
+﻿Property;PropertyLabel;TotalStatements;StatementsWithReference;StatementsWithoutReference;PercentWithReference
+P19;Wikidata reference;2;0;2;0.0
+P50;category of;4;0;4;0.0
+P52;subclass of;13;0;13;0.0
+P43;contains administrative unit;136;108;28;79.41176470588235
+P42;coordinates;1927;1631;296;84.63933575505968
+P36;division of;92;91;1;98.91304347826086
+P45;number of vessels;5177;5158;19;99.63299208035542
+P3;belongs to administrative unit;430;429;1;99.76744186046511
+P35;instance of;190592;190544;48;99.97481531229013
+P26;code;32992;32989;3;99.99090688651793
+P56;administration responsible of registration;30527;30526;1;99.99672421135388
+P51;has vessel category;187575;187572;3;99.9984006397441
+P58;date of retirement;71896;71895;1;99.99860910203627
+P37;name;182619;182617;2;99.998904823704
+P29;entry into service date;183396;183394;2;99.99890946367424
+P23;main engine power;213317;213315;2;99.99906242821716
+P1;defined by;3;3;0;100.0
+P10;registration number;183401;183401;0;100.0
+P11;registration place;124760;124760;0;100.0
+P12;CFR;188177;188177;0;100.0
+P14;UVI;3868;3868;0;100.0
+P15;MMSI;20309;20309;0;100.0
+P16;LOA;181359;181359;0;100.0
+P17;LBP;77697;77697;0;100.0
+P18;has parent category;107;107;0;100.0
+P20;GT Tonnage;153629;153629;0;100.0
+P21;other tonnage;126242;126242;0;100.0
+P22;safety tonnage GTs;338;338;0;100.0
+P24;auxiliar engine power;9499;9499;0;100.0
+P25;has fishing gear category;371013;371013;0;100.0
+P27;hull material;175595;175595;0;100.0
+P28;on board equipment;115614;115614;0;100.0
+P30;date of construction;160307;160307;0;100.0
+P31;registration on national registry;30527;30527;0;100.0
+P32;status on national registry;30730;30730;0;100.0
+P38;subarea of;21;21;0;100.0
+P39;has divisions;92;92;0;100.0
+P40;has subareas;19;19;0;100.0
+P41;operates at;23829;23829;0;100.0
+P49;IMO;30529;30529;0;100.0
+P5;plate name;31;31;0;100.0
+P53;abbreviation;126;126;0;100.0
+P54;superseded by;3;3;0;100.0
+P55;country of registration;185685;185685;0;100.0
+P57;date of destruction;42551;42551;0;100.0
+P59;segment;184804;184804;0;100.0
+P6;flag;29;29;0;100.0
+P60;administrated by;155;155;0;100.0
+P7;has ports;295;295;0;100.0
+P9;external marking;185617;185617;0;100.0

@@ -1,0 +1,21 @@
+﻿Property;PropertyLabel;TotalItemLinks;BrokenItemLinks;PercentBroken
+P11;registration place;124760;0;0.0
+P18;has parent category;107;0;0.0
+P25;has fishing gear category;371013;0;0.0
+P27;hull material;175595;0;0.0
+P28;on board equipment;115614;0;0.0
+P3;belongs to administrative unit;430;0;0.0
+P35;instance of;190592;0;0.0
+P36;division of;92;0;0.0
+P38;subarea of;21;0;0.0
+P39;has divisions;92;0;0.0
+P40;has subareas;19;0;0.0
+P41;operates at;23829;0;0.0
+P43;contains administrative unit;136;0;0.0
+P50;category of;4;0;0.0
+P51;has vessel category;187575;0;0.0
+P52;subclass of;13;0;0.0
+P54;superseded by;3;0;0.0
+P7;has ports;295;0;0.0
+
+TOTAL;;1190190;0;0.0

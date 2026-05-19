@@ -1,0 +1,9 @@
+﻿Check;TotalChecked;Valid;DetectedAnomalies;PercentValid;PercentAnomalous
+LOA greater than zero;181359;181359;0;100.0;0.0
+GT tonnage non-negative;153629;153629;0;100.0;0.0
+Main engine power greater than 0;210112;210112;0;100.0;0.0
+Construction date not after entry into service;161022;160937;85;99.94721218218629;0.0527878178137149
+Retirement date not before entry into service;70535;70417;118;99.83270716665486;0.1672928333451478
+Destruction date not before construction;32642;32642;0;100.0;0.0
+
+TOTAL;809299;809096;203;99.97491656359394;0.025083436406074886
